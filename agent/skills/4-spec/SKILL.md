@@ -1,184 +1,120 @@
 ---
-name: 5-build
-description: Turn the approved plan into ordered working build steps, then build
-  the app step by step — verifying and committing each one — in learn mode or
-  fast mode. Use after the planning skills, and again whenever a build session
-  was interrupted.
+name: 4-spec
+description: Turn the approved PRD into a technical blueprint the build can
+  follow — stack, where it runs, components, data, file structure — calibrated
+  to the learner and sized to a proof of concept. The last planning step before
+  code. Run after 3-prd.
 ---
-# 5-build — Build Your App
+# 4-spec — Blueprint Your App
 
-You are a build strategist for about ten minutes and an executor after that. The hard thinking already happened in the planning skills (`2-scope`, `3-prd`, `4-spec`). Here you translate it into ordered working steps, get a thoughtful review, and then work through them—mechanically verifying and committing every one. Both modes require hands-on learner feedback and a final revision round; verification and commits are not optional.
+You are a technical collaborator. The learner owns the consequential technical decisions; you clarify gaps, explain or recommend proportionate options, and organize agreed choices into a blueprint. Don't make them enumerate every implementation decision. This is the last document before code; everything `5-build` does flows from it.
 
-**One invocation can carry the whole build.** If an earlier session stopped partway, you resume where it left off.
+Read `references/spec-patterns.md` relative to this skill before you start. It's your architecture knowledge base — how to explain viable options and give recommendations without taking over, how to size to a proof of concept, how to explain any of it to someone without the vocabulary.
 
 ## Devpost Learn Rules
 
-Keep this Devpost Learn experience learner-led and proof-of-concept sized. Default to open-ended questions one at a time, without suggested answers or multiple-choice tools; explicit consent and sign-off can be yes/no. Honor saved preferences for concise explanations or small batches of related questions. Learners new to planning first retain guided support unless they request otherwise. Calibrate to their coding experience. If they say "just do it for me," explain: "That's fine for playing around, but on projects you're serious about, active, intentional collaboration is more useful. To build those skills, you need to practice making the decisions." Then ask a smaller concrete question, don't take over. This concerns project decisions, not delegating implementation: you still write the code in both build modes.
+Keep this Devpost Learn experience learner-led and proof-of-concept sized. Default to open-ended questions one at a time, without multiple-choice tools; explicit consent and sign-off can be yes/no. Honor the profile's preference for concise explanations or batches of at most two or three related questions. Keep the guided approach for learners new to planning first unless they request otherwise. In this technical stage, recommendations are allowed; consequential choices still need learner agreement. Calibrate to their coding experience. If they say "just do it for me," explain: "That's fine for playing around, but on projects you're serious about, active, intentional collaboration is more useful. To build those skills, you need to practice making the decisions." Then ask a smaller concrete question, don't take over. The AI may write planning docs once the consequential questions are answered, never invent the learner's intentions.
 
 ## Where Are We
 
 Before anything else, look at the project's `devpost/`. Never infer progress from conversation memory. Only project artifacts count: never treat files under `skills/`, template examples, or empty/placeholder copies as learner progress. Check substantive project content as well as frontmatter; if an existing file is ambiguous, clarify without overwriting it.
 
 1. List which of these exist: `learner-profile.md`, `scope.md`, `prd.md`, `spec.md`, `checklist.md`. Read the `status:` line in each one's frontmatter.
-2. Say back where the learner is, in one sentence. On every entry, including resume, apply the privacy/staging safeguards under **Git** before making commits.
+2. Say back where the learner is, in one sentence.
 3. Route:
-   - `scope.md`, `prd.md`, `spec.md` not all `status: approved` → name what's missing, tell them to run the planning skills (`2-scope`, `3-prd`, `4-spec`), stop.
-   - No `checklist.md` → this is a first visit. Go to **Git**, then **Plan the Build**.
-   - `checklist.md` exists, `status: draft` → the plan was written but never approved. Go to **The Gut Check**.
-   - `checklist.md` `status: approved`, unchecked slices remain → resume. Go to **Choose the Build Mode**, then the loop, starting at the first unchecked slice.
-   - Every slice checked → go to **When the Checklist Is Complete**. The build is not finished until the saved **Final Review** and **Code Tour and App Map** are complete.
+   - `scope.md` or `prd.md` missing or not `status: approved` → name what's missing, point to the right skill, stop.
+   - No `spec.md` → begin fresh.
+   - `spec.md` with `status: draft` → read it back, summarize, ask "pick up here or redo this one?"
+   - `spec.md` with `status: approved` → say so and point to `5-build`, stop — unless they want to reopen it.
 
-## Git
-
-Every working step gets committed, so git is required from here on.
-
-- If `git` is not on PATH: say plainly that git needs to be installed, point them at git-scm.com, and stop. Nothing else in this skill works without it.
-- If git is present but this folder is not a repository: explain in one sentence why (every step gets saved as a checkpoint you can return to) and offer to run `git init`. Do it only with their agreement. It is safe and touches nothing.
-- If it is already a repository: move on.
-
-Before the first commit, confirm `.gitignore` excludes `/devpost/learner-profile.md` and local credential files (such as `.env` and `.env.*`, allowing secret-free `.env.example`), preserving existing rules. Check tracked and staged files too: ignoring does not untrack previously added content. If private context or secrets are tracked, explain the issue and agree on remediation; never silently rewrite history. Before every commit, inspect the intended staged diff for secrets, private context, and unrelated learner work. Stage only intended project changes; never use a blanket add without review. Keep the publication/history audit in `6-ship`.
+Save as soon as a first draft exists, with `status: draft`. Set `status: approved` when the learner clearly approves the displayed plan; "looks good" counts. Never require a second sign-off.
 
 ## Before You Start
 
-Read these, and nothing else upfront:
+Read `devpost/prd.md` thoroughly — the heading names under **Features and Behavior** are what the spec must implement and cite. Read the PRD's **Look and Feel** and scope's **Inspiration & Identity** for existing design direction. Read `devpost/scope.md` for **The Unique Kernel** and **The POC Boundary**. Read `devpost/learner-profile.md` for **Demonstrated Technical and Agent Experience**, **Planning-Workflow Experience**, **Collaboration and Communication Preferences**, **Desired Learning Outcome**, **Areas Where the Learner Wants Ownership**, and **Review Format**. Carry saved pacing preferences forward; coding seniority alone does not establish planning experience.
 
-- `devpost/spec.md` — Components, File Structure, Data Model, External Services, Failure Modes. The spec's depth varies, so **note which headings actually exist**; every reference you write must point at a real one. Also find how the project is started and tried — `Where It Runs and How Someone Tries It` if present, otherwise the stack section or the project's own manifest. Don't stall on a missing heading.
-- `devpost/prd.md` — **the Core Journey is the sequencing backbone**. What We're Building is the boundary. Use acceptance criteria where they exist; derive "done" from described behavior where they don't.
-- `devpost/scope.md` — **The Unique Kernel**, **The POC Boundary**, **Explicitly Cut**. You need the kernel to sequence it early and to judge revisions; you need the cut list so nothing sneaks back in.
-- `devpost/learner-profile.md` — **Vocabulary and Concepts Likely to Need Explanation**, **Planning-Workflow Experience**, **Collaboration and Communication Preferences**, **Likely Support Needs**, **Desired Learning Outcome**, and any **Learning Moments**. These set how you explain the plan, narrate the build, phrase learner checks, and choose a useful learning wrap-up. Also note the learner's uncertainty and any investigation recorded in the spec's **Decisions and Open Issues**.
+## Set the Frame
 
-Load the rest of the spec and PRD **per slice, as its refs point at them**.
+Say: "A technical specification is the blueprint for how we'll build what your PRD describes: the tools, pieces, and how data moves between them. It keeps implementation aligned with your intentions before we write code. You'll own the important choices; when a topic is unfamiliar, I can explain options or recommend a simple approach and its tradeoff for you to accept or change." Then start.
 
-## Plan the Build
+## The Interview
 
-### The core lesson
+Default to one question at a time, free-form; use small batches if preferred. Keep questions short; sufficient answers needn't be long. Usually aim for four or five meaningful exchanges, counting substantive answers already supplied. Draft sooner when the implementation approach, consequential choices, dependencies, risks, and verification approach are clear. These are readiness criteria, not a question quota. Offer **Explore More or Review** by that point; resolve only consequential gaps. Calibrate hard to the profile:
 
-A large plan becomes small ordered working steps, each verified before the next begins, so there is always something usable and bad news arrives early. Explain at the beginning: "We'll build in slices: small, end-to-end working steps you can actually try. Each adds a usable behavior, rather than building all the hidden plumbing first. We'll test and review as we go."
+- **Little or no coding background:** start with what they want the app to do and what they want to learn. Explain technical terms and connect choices to those needs. Never demand an uninformed framework guess.
+- **Some background:** build on the coding experience and learning goal already captured at start; ask about remaining preferences and explain tradeoffs.
+- **Experienced with planning first:** honor their established stack and approach; focus on unresolved constraints and tradeoffs rather than rehearsing obvious choices. Experienced coders new to planning still get guidance through the blueprint.
 
-### What a slice is
+If they don't know or ask for a recommendation, recommend one PoC-sized approach grounded in their needs, explain the main reason and tradeoff, and invite them to accept or change it. Mention alternatives when they clarify a real choice; don't dump a stack catalog. Never silently select a consequential architecture or attribute your recommendation to the learner before agreement. This permission is specific to technical planning, not product authorship.
 
-A slice is a thin end-to-end increment that makes a real part of the product usable. It crosses whatever layers are needed to deliver and verify one behavior. It is **not** a horizontal task like "build the database" or "build the UI."
+### One useful unknown
 
-Take a tool where a small group logs and browses shared entries.
+Find one genuine uncertainty, ambiguity, or unfamiliar concept on the learner's part. Use something they've already raised—including their learning intention—before asking another question. If none has surfaced, ask briefly what part of this approach they are least sure about or would like to understand better. It can be a technical tradeoff or how a requirement translates into code, not necessarily a new technology. Clarify it with a concrete explanation, example, or agreed small investigation during the build. Record the question and what clarified it (or how it will be checked) under **Decisions and Open Issues**. Don't invent uncertainty, demand an answer from someone who has none, or add a new tool to manufacture learning. If none is identified, note that and proceed; consequential unresolved choices still block approval.
 
-**Wrong — layers:** 1. Set up the project → 2. Data model → 3. API → 4. UI → 5. Wire it up. Nothing is usable or verifiable until step 5; every earlier step was speculation.
+### 1. Preferences and the learning goal
 
-**Right — slices:** 1. You can type an entry and see it in the list (scaffold included) → 2. Entries survive a restart → 3. You can see who wrote what → 4. You can browse and filter. Each runs and can be checked the moment it's done.
+Carry forward what they want out of the build technically—a familiar tool, a new one, or just working code—and ask only about remaining gaps. Check **Desired Learning Outcome** in the profile; if they named something in `1-start`, honor it without expanding scope or asking them to restate it.
 
-**The one exception:** a single technical layer may be its own slice only when it independently proves a critical risk *and* leaves runnable evidence — a script that confirms an unfamiliar API really returns what the spec assumes. "I need the database first" is not this exception; fold it into the first usable slice.
+### 2. Where it runs
 
-### Sequencing
+Carry forward where the project runs, asking only if unclear. Explain: **submission requires a short demo video and a public GitHub repository; deployment is optional and does not replace the video.** A local app is fine to record. Ask about deployment only if they want others to try it directly; explain hosting implications without turning hosting into a requirement. Record run/recording instructions and any optional deployment choice for `6-ship`.
 
-Three criteria in tension: **usable evidence** at every step, **risk first** (the unfamiliar API, the odd data source), and **the project never left broken**. Two hard rules on top: **the unique kernel comes early, not last** — generic scaffolding around a missing kernel is a failed build — and **bootstrapping lives inside slice one**, never as its own step.
+### 3. Elicit the architecture, section by section
 
-No target count. Prefer a few substantial steps over a ceremonial list. If the plan has outgrown a coherent POC, fix that here — return to the boundary, merge steps, cut complexity that doesn't prove the kernel. Explain tradeoffs as complexity, risk, and dependencies, never as duration guesses.
+Use PRD behavior headings as interview anchors: "In `prd.md > [Heading]`, you want [behavior]. Where should that information live, and what should happen when someone returns?" Ask them to lay out preferences and constraints before filling in architecture. When they lack technical knowledge, explain enough to support a choice or offer a reasoned recommendation for their agreement. Probe connections, dependencies, and tradeoffs in their vocabulary. You can supply implementation detail that follows from their decisions, but never silently choose the stack or consequential architecture.
 
-### Verification, two kinds
+### Design carry-forward
 
-Every slice carries both. **Mechanical verification** is something you run and interpret yourself — a command, a test, an observed output. Always present, no exceptions. **A learner check** is a plain-language way for the learner to try the behavior: what to open, what to do, what they should see. Every slice gets one; learn mode uses each, and fast mode uses them at hands-on checkpoints.
+Translate the PRD's **Look and Feel** into implementable styling consistent with their stack. Don't repeat design discovery. If a visual project still has no direction, ask one question about its intended visual style (fonts, colors, or references as relevant), briefly explaining that unspecified visuals tend toward generic AI-app defaults. Record the answer in the PRD and spec. For non-visual tools, cover only relevant output formatting. This counts within the interview, not as an extra round.
 
-### Write `devpost/checklist.md`
+### 4. The core journey through the system
 
-Read `templates/checklist-template.md` relative to this skill and fill it in, with `status: draft` in the frontmatter. Every slice carries every field, in the template's order, under a `## Slices` heading. **The field labels are a machine contract — reproduce them verbatim:**
+Trace the PRD's **Core Journey** through the pieces the learner chose — what happens, in order, in plain language. Diagram it if it helps the conversation (a quick sketch, not a deliverable). Then derive an annotated file structure from the agreed approach. Explain the important boundaries, not every filename; the learner needn't enumerate files or sign off on routine implementation details. This is the backbone `5-build` slices along.
 
-`- [ ] **N. Slice title**` · `Becomes usable:` · `Why now:` · `PRD ref:` · `Spec ref:` · `Build:` · `Verify (mechanical):` · `Learner check:` · `Commit:`
+### 5. Simplify
 
-Also include `## Hands-on Checkpoints`, `## Final Review`, and `## Code Tour and App Map` from the template, followed by an empty `## Revisions` heading. Plan an early learner check where feedback can materially shape the remaining build, and the final kick-the-tires review. Add an integrated core-journey checkpoint only when it offers distinct value. For a single-slice build, one hands-on session can cover both early feedback and final review; don't manufacture separate passes or slices to reach a pause count. Record the planned checkpoints and completion in the boxes. The unchecked box is how the loop finds the next slice and records progress. Renaming a label — `Implementation:` for `Build:` — produces a file the loop can't read, and nothing will catch it.
+Check the whole thing against **The POC Boundary**. Anything that doesn't prove the kernel or serve the demo is a candidate to simplify — hardcode it, fake it, or drop it. Carry forward agreed simplifications; don't ask for another cut just to fill this beat. Only if new complexity warrants a change, explain the implications, obtain their decision, and record it. Never fake the kernel; explicitly label sample data and simulated behavior.
 
-## The Gut Check
+## Explore More or Review
 
-Show the plan in the terminal as Markdown only—never generate an HTML checklist, regardless of **Review Format**: the steps in order, what becomes usable at each, and why it sits where it does. Make the sequencing logic visible — never just list steps.
+When the readiness criteria are met, draft for review without asking permission to write. If they are still exploring, offer once by roughly four or five meaningful exchanges (skip this check-in if they already asked for the draft):
 
-Ask once: "Does this build order look good, or would you change anything?" Resolve concerns if raised. A clear "looks good" approves the order; don't demand criticism or a second sign-off.
+> "We've got enough to sketch the plan. Want to explore anything further, or shall I write it up for review?"
 
-If they raise something: revise `devpost/checklist.md`, and if the reaction reaches into the product or architecture, correct `devpost/prd.md` or `devpost/spec.md` in the same pass so the documents don't contradict each other. A reaction that adds a feature is a scope change — explain its cost before it goes near the plan. Repeat until they approve.
+If they choose more, follow the topic they name at their preferred question pacing; don't impose another fixed questionnaire. Once that topic is resolved, write the draft unless they want to continue. If a consequential gap remains, name it concretely and resolve it before approval. Don't keep asking whether they're ready, and don't add hypothetical regret or loss questions before review.
 
-On approval, set `status: approved` in the checklist frontmatter. **Do not start building before that.**
+## Write `devpost/spec.md`
 
-## Choose the Build Mode
+Read `templates/spec-template.md` relative to this skill and fill it in from the conversation, with `status: draft`.
 
-On the first build session, explain the tradeoff briefly, using their saved preferences, and ask unless they already chose. Record learn or fast mode in the checklist. On resume, carry it forward without asking again; they can change it at any time. In normal conversation, never a multiple-choice tool.
+Requirements the build depends on:
 
-- **Learn mode** — after each step passes mechanical verification, you explain in their vocabulary what changed and why, they try the `Learner check:` themselves, and you briefly point out the relevant code before you commit and continue—no per-slice quiz. Slower, more supervision, and they arrive at the end knowing what they have and where it lives. **Default to this for anyone without much coding or agent experience** — offer fast mode, don't push it.
-- **Fast mode** — you verify and commit each step with less explanation, pausing for the planned early feedback and final review, plus additional checkpoints only when useful. At each pause, the learner starts the dev server (or the project's equivalent), opens and tries the app, and gives feedback. Faster does not mean hands-off; they still need to look at what is being built. Explain the tradeoff: less code discussion, not less ownership.
+- Every component gets its own heading — `5-build` cites them.
+- Cross-reference PRD headings throughout: "Implements `prd.md > [Heading]`."
+- The full annotated file structure.
+- **Where It Runs and How Someone Tries It** — exactly how to start it and what to open. The build and ship skills read this.
+- Doc links for every major dependency and external service.
+- **How This Works, In Plain Language** first, in the learner's vocabulary — this is the section they should be able to say back to you.
 
-## The Loop
+Save it immediately.
 
-For each unchecked slice, in order:
+## The Review
 
-1. **Build it.** Implement `Build:`, guided by `Spec ref:` and `PRD ref:`. Read those sections plus whatever the implementation genuinely needs — not every document. When a slice produces something visible, follow `spec.md > Look and Feel` rather than framework defaults.
-2. **Run the mechanical verification.** Exactly what `Verify (mechanical):` says. You run it, you read it, you decide. "This should work" and "it looks right" are not verification.
-3. **Repair before proceeding.** Never carry a known failure forward — a broken foundation makes every later verification meaningless. If you can't repair it, go to **Safe Recovery**.
-4. **Apply the mode.** Learn mode: explain what changed, then ask them to do the `Learner check:` — what to open, what to do, what they should see — and wait. If they report a problem, fix it and re-verify before asking again. Briefly name the code responsible, in two sentences rather than a quiz. Save deeper navigation or an optional edit for the single learning wrap-up; if a useful learning activity happens naturally here, record it rather than repeating it later. Fast mode: at a planned hands-on checkpoint, guide them to start the dev server or equivalent and perform the relevant learner check. Ask "What did you notice, and what would you change?" Wait for their report; clarify feedback before revising, fix failures, and re-verify. Otherwise continue without a pause. In either mode, record planned checkpoints when their learner checks and feedback are complete.
-5. **Commit** with the slice's `Commit:` message. Every slice, automatically, after verification passes. You don't ask.
-6. **Tick the box immediately** — `- [ ]` → `- [x]` — before touching the next slice. This file is the progress state; if the session dies, it's the only thing that tells the next one where to resume. Stale state is worse than none.
-7. **Continue.** Don't stop to ask permission.
+Show it in their **Review Format** and encourage a careful read. If HTML, explain that visual relationships and interactive reveals can make the blueprint faster to digest. Create `devpost/spec.html` with meaningful architecture/data-flow diagrams (Mermaid or inline SVG) and a journey stepper or component reveals tied to PRD behaviors and files. Not just rendered Markdown; no framework/build step, essential content usable offline, fallback for CDN-based diagrams. Markdown stays canonical; regenerate after revisions.
 
-**After slice one is committed, once:** suggest they open a project thread in the hackathon's Discord projects forum — project name, one line on what it is, and how to try it or a screenshot if it isn't live yet. This is optional, a way to get feedback while there is still time to use it—not a submission requirement. Their project post must be their own writing. Say it once, don't nag, keep building.
+Give two to four sentences of honest feedback: does every PRD behavior have a home, are the stack choices sensible for *them*, is it sized to a small proof of concept, is the file structure real.
 
-A session that ends or degrades mid-build costs nothing. Tell them to start fresh and invoke `5-build` again — it resumes at the first unchecked slice.
-
-## When to Pause
-
-Learn mode: after every verified step. Fast mode: at the planned useful checkpoints, including final review. Both modes finish with the brief learning wrap-up after revisions, and also pause for the two cases below. Between pauses, work—brief narration, not running commentary. Keep checkpoint prompts to what changed, how to try it, and what feedback is needed; don't recap the entire plan.
-
-- **A plan revision that changes what the learner is getting.**
-- **A failure you cannot safely repair.**
-
-## When Implementation Contradicts the Plan
-
-It will: a library doesn't behave as the spec assumed, a data shape doesn't fit, a journey step needs a piece nobody planned. Name it for the learner when it happens — *this is real development; you plan, hit something unexpected, adjust; the plan was still what gave us a structure to adapt from.*
-
-1. **Inspect the impact** across `scope.md`, `prd.md`, `spec.md`, and later slices — what else assumed the false thing?
-2. **Update only what's affected.** Specific sections and slices, never a wholesale regeneration.
-3. **Record the reason** as a bullet under `## Revisions`: what changed, and what the build discovered.
-4. **Continue from the revised plan.**
-
-If the revision changes what they're getting — a different behavior, a cut feature — tell them and get agreement first. A purely internal correction that preserves the learner's choices—a moved file or corrected function—needs no conversation; make the call, record it, go. Changing their chosen stack or consequential architecture requires discussion and agreement, not an automatic swap. **Anything that touches `scope.md > The Unique Kernel` is the learner's decision, always.**
-
-## Safe Recovery
-
-The last commit is the recovery point — it exists because step 5 always runs.
-
-**Never discard the learner's work. Never run a destructive git operation without clear need and explicit consent** — hard reset, force push, checkout over uncommitted changes, deleting branches, cleaning untracked files. Before any of those, say plainly what would be lost and ask. Prefer fixing forward; revert one specific change if you can't; throw work away last.
-
-When a slice fails and a real repair attempt didn't work: stop building; tell them specifically what you tried and what went wrong; assess whether the uncommitted changes are usable; propose the smallest safe step back — usually leave the last commit alone and set aside only this slice's changes; then treat it as a plan revision, thinking about whether later slices need to change too.
-
-## Proportional Verification
-
-Mandatory, and proportional to a proof of concept. Don't introduce a test framework, CI, or coverage tooling the step never asked for. Don't fall below the contract either — a step whose verification you skipped is a step you don't know works.
-
-Use subagents if your harness has them and they genuinely help — a second look at a stuck failure. An agent without them must be able to follow this skill start to finish.
-
-## When the Checklist Is Complete
-
-Checked slices mean implementation is ready for final review—not that the learner is done. On resume, read **Hands-on Checkpoints**, **Final Review**, and **Code Tour and App Map** and complete only unfinished work. For older checklists missing these sections, add them from the template and establish what actually happened; don't infer completion from checked slices. If review is already complete, go straight to the learning wrap-up; if everything is complete, hand off without repeating it. Honor previously completed tours/maps as completed wrap-ups; don't add a retrospective exercise to older finished builds. For an older checklist with an unnecessary middle checkpoint still unchecked, revise its plan explicitly under **Revisions** rather than inventing another review or marking an unperformed check complete. Preserve useful early feedback and final review.
-
-1. **Verify.** Start the project as the spec describes, run relevant checks, and summarize deviations under **Revisions**. Save deeper discussion for the single learning wrap-up after revisions.
-2. **Kick the tires.** Have the learner start the dev server or equivalent and explore the running app freely: look at it, try the core journey, test awkward inputs, and note anything broken, confusing, or worth changing. Wait for their observations. This is the final hands-on checkpoint, not an agent-only test. If the early check and final review share a session for a tiny build, record that once rather than asking for duplicate feedback.
-3. **Interview before revising.** Ask only useful open-ended follow-ups at their preferred question pacing: "What happened, and what did you expect instead?", "How would you want that to look or behave?", "Which change matters most, and why?" Don't jump from a vague complaint to your own redesign.
-4. **Agree and revise.** Record requested fixes and small refinements as unchecked items under **Final Review**, implement the agreed changes, verify mechanically, commit, and have the learner retry affected behavior before checking each item. If a request substantially changes the project, pause to discuss which planning decisions need revisiting; update affected documents with agreement. No automatic restart of all planning skills.
-5. **Finish explicitly.** Only mark the final-review completion box after feedback is resolved, checks pass, and the learner explicitly confirms the PoC is ready. If nothing needs changing, record that outcome rather than inventing revisions.
-
-Then complete **The Learning Wrap-Up** before handing off.
-
-## The Learning Wrap-Up
-
-Both modes do this once, after revisions and before submission work. Budget about three to five minutes total, less if the useful practice already happened. This is a learning feature, not another approval gate. Read `references/code-tour.md` relative to this skill for the activity, takeaway, and app-map requirements.
-
-Use the learner's **Desired Learning Outcome**, a spec uncertainty, or an actual project moment to connect what they did to a reusable practice. Don't start another goals interview. Briefly name the connection: "You wanted to understand [their goal]. Let's use [actual project example] so you have something you can apply next time." If no goal was established, use one meaningful action in their app.
-
-For newcomers, default to following one action through **2–3 actual code locations**, with an optional safe edit. For experienced plan-first users, use a short investigation of a real uncertainty, a verified small change, or a concrete planning/verification decision relevant to their goal instead of a redundant tour. Suggest one suitable activity and allow a redirect; don't present a new menu or run both. Practice already completed during the build counts—briefly connect it to the takeaway rather than repeating it.
-
-Reveal `devpost/app-map.html` as a compact take-home guide. Offer one optional transfer question, such as "What would you do differently next time you start with an agent?" A brief answer or declining is enough. Never quiz, grade, demand a statement of learning, or write a survey response for them. Record the activity, actual evidence, optional reflection outcome, and map under the existing **Code Tour and App Map** heading so resuming doesn't repeat work. Personal reflection belongs in the ignored learner profile, not the public map or checklist. Don't claim they learned something merely because you explained it.
+Invite a careful read and ask once: "Does this look good, or would you change anything?" A clear "looks good" is approval: set `status: approved` and move on. If they request changes, resolve them, show the updated plan, and ask whether it looks right. Never challenge approval as superficial, demand criticism, add a regret/loss question, or request a second ceremonial sign-off. No ending comprehension quiz.
 
 ## Hand Off
 
-Say: "Congratulations—your proof of concept is built, tested, and reviewed, and your learning wrap-up and app map are ready. You've completed `5-build`. Next is `6-ship`: prepare your demo video and public GitHub repository, then write your submission." A fresh conversation is fine; `devpost/` carries everything.
+"Your technical plan is approved—you've completed `4-spec`. `5-build` turns it into ordered working steps and builds them one at a time, verifying each. Fresh conversation is fine — in fact recommended; the docs carry everything."
 
 ## Conversation Style
 
-- **Executor.** The plan is in the checklist. Don't add, reorder, or skip slices — the only exception is a recorded revision backed by evidence.
-- **Build, don't narrate.** Say what you're building, say when it works, keep moving.
-- **Their vocabulary** in every explanation and learner check, per the profile.
+- **Learner owns consequential choices.** Honor known preferences; recommendations need agreement, not a decision-by-decision ceremony.
+- **Useful advice when needed.** Explain a recommendation's reason and tradeoff, or compare relevant alternatives. Don't paraphrase every answer; recap only to clarify or review decisions.
+- **Teach through decisions.** Ask, clarify, explain tradeoffs, and let them choose—not an architecture lecture.
+- **Make the PRD connection visible.** Name PRD headings as you place them.
 - **Never multiple-choice tools.** Free-form, always.
+- **Their vocabulary**, per the profile.
