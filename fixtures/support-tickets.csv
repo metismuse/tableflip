@@ -1,0 +1,2622 @@
+ticket_id,priority,notes,opened
+T-00000,high,"Said ""it broke
+after update"", escalated",2026-02-27
+T-00001,medium,"Follow-up
+scheduled, no answer",2026-07-03
+T-00002,urgent,"Follow-up
+scheduled, no answer",2026-07-26
+T-00003,urgent,"Customer called,
+asked for refund",2026-05-17
+T-00004,medium,Simple password reset,2026-04-24
+T-00005,low,"Customer called,
+asked for refund",2026-08-01
+T-00006,high,Simple password reset,2026-09-26
+T-00007,high,"Follow-up
+scheduled, no answer",2026-02-23
+T-00008,medium,"Said ""it broke
+after update"", escalated",2026-09-11
+T-00009,high,"Said ""it broke
+after update"", escalated",2026-02-27
+T-00010,medium,"Said ""it broke
+after update"", escalated",2026-02-26
+T-00011,medium,"Follow-up
+scheduled, no answer",2026-03-21
+T-00012,urgent,"Customer called,
+asked for refund",2026-01-09
+T-00013,high,"Customer called,
+asked for refund",2026-07-12
+T-00014,low,"Follow-up
+scheduled, no answer",2026-01-21
+T-00015,urgent,"Follow-up
+scheduled, no answer",2026-04-26
+T-00016,high,Simple password reset,2026-01-15
+T-00017,high,"Said ""it broke
+after update"", escalated",2026-05-21
+T-00018,high,"Said ""it broke
+after update"", escalated",2026-03-10
+T-00019,medium,"Customer called,
+asked for refund",2026-01-18
+T-00020,high,"Follow-up
+scheduled, no answer",2026-04-27
+T-00021,urgent,"Customer called,
+asked for refund",2026-06-28
+T-00022,low,Simple password reset,2026-07-20
+T-00023,urgent,"Follow-up
+scheduled, no answer",2026-04-24
+T-00024,low,Simple password reset,2026-08-08
+T-00025,low,Simple password reset,2026-03-11
+T-00026,low,"Follow-up
+scheduled, no answer",2026-08-11
+T-00027,low,"Follow-up
+scheduled, no answer",2026-09-16
+T-00028,urgent,"Follow-up
+scheduled, no answer",2026-09-10
+T-00029,urgent,"Follow-up
+scheduled, no answer",2026-01-04
+T-00030,high,"Follow-up
+scheduled, no answer",2026-04-21
+T-00031,medium,"Follow-up
+scheduled, no answer",2026-02-15
+T-00032,medium,"Customer called,
+asked for refund",2026-09-02
+T-00033,urgent,"Said ""it broke
+after update"", escalated",2026-08-28
+T-00034,medium,"Follow-up
+scheduled, no answer",2026-03-01
+T-00035,high,"Customer called,
+asked for refund",2026-09-16
+T-00036,low,"Said ""it broke
+after update"", escalated",2026-08-17
+T-00037,urgent,"Said ""it broke
+after update"", escalated",2026-02-15
+T-00038,high,"Follow-up
+scheduled, no answer",2026-06-21
+T-00039,medium,"Said ""it broke
+after update"", escalated",2026-08-21
+T-00040,low,"Said ""it broke
+after update"", escalated",2026-07-12
+T-00041,urgent,"Customer called,
+asked for refund",2026-08-06
+T-00042,urgent,Simple password reset,2026-05-15
+T-00043,urgent,"Customer called,
+asked for refund",2026-09-16
+T-00044,medium,"Customer called,
+asked for refund",2026-07-19
+T-00045,low,"Follow-up
+scheduled, no answer",2026-07-12
+T-00046,urgent,"Said ""it broke
+after update"", escalated",2026-04-13
+T-00047,urgent,"Customer called,
+asked for refund",2026-08-09
+T-00048,medium,"Said ""it broke
+after update"", escalated",2026-01-10
+T-00049,medium,"Said ""it broke
+after update"", escalated",2026-05-02
+T-00050,medium,"Said ""it broke
+after update"", escalated",2026-02-04
+T-00051,low,"Follow-up
+scheduled, no answer",2026-05-20
+T-00052,urgent,Simple password reset,2026-03-28
+T-00053,urgent,Simple password reset,2026-02-25
+T-00054,urgent,"Customer called,
+asked for refund",2026-09-24
+T-00055,urgent,"Said ""it broke
+after update"", escalated",2026-08-27
+T-00056,medium,"Follow-up
+scheduled, no answer",2026-02-20
+T-00057,high,"Said ""it broke
+after update"", escalated",2026-07-03
+T-00058,urgent,"Follow-up
+scheduled, no answer",2026-09-15
+T-00059,low,"Follow-up
+scheduled, no answer",2026-08-18
+T-00060,urgent,"Customer called,
+asked for refund",2026-09-24
+T-00061,urgent,Simple password reset,2026-05-01
+T-00062,urgent,"Said ""it broke
+after update"", escalated",2026-08-25
+T-00063,medium,"Said ""it broke
+after update"", escalated",2026-04-05
+T-00064,high,"Said ""it broke
+after update"", escalated",2026-07-28
+T-00065,medium,"Customer called,
+asked for refund",2026-09-17
+T-00066,high,Simple password reset,2026-02-04
+T-00067,urgent,"Said ""it broke
+after update"", escalated",2026-05-28
+T-00068,urgent,"Follow-up
+scheduled, no answer",2026-01-04
+T-00069,medium,"Follow-up
+scheduled, no answer",2026-06-12
+T-00070,urgent,Simple password reset,2026-05-11
+T-00071,high,"Said ""it broke
+after update"", escalated",2026-05-07
+T-00072,urgent,"Follow-up
+scheduled, no answer",2026-05-20
+T-00073,medium,"Customer called,
+asked for refund",2026-04-08
+T-00074,urgent,"Follow-up
+scheduled, no answer",2026-07-08
+T-00075,high,"Follow-up
+scheduled, no answer",2026-05-12
+T-00076,urgent,Simple password reset,2026-06-12
+T-00077,urgent,Simple password reset,2026-09-16
+T-00078,urgent,"Follow-up
+scheduled, no answer",2026-07-20
+T-00079,medium,"Customer called,
+asked for refund",2026-01-11
+T-00080,medium,"Said ""it broke
+after update"", escalated",2026-02-05
+T-00081,urgent,Simple password reset,2026-05-15
+T-00082,high,"Said ""it broke
+after update"", escalated",2026-03-25
+T-00083,urgent,"Customer called,
+asked for refund",2026-05-12
+T-00084,low,"Follow-up
+scheduled, no answer",2026-05-07
+T-00085,urgent,"Follow-up
+scheduled, no answer",2026-01-05
+T-00086,low,"Follow-up
+scheduled, no answer",2026-07-09
+T-00087,high,Simple password reset,2026-02-23
+T-00088,medium,"Follow-up
+scheduled, no answer",2026-04-17
+T-00089,low,"Follow-up
+scheduled, no answer",2026-03-20
+T-00090,low,Simple password reset,2026-08-22
+T-00091,urgent,"Customer called,
+asked for refund",2026-05-23
+T-00092,medium,"Follow-up
+scheduled, no answer",2026-06-28
+T-00093,urgent,"Customer called,
+asked for refund",2026-05-15
+T-00094,low,"Follow-up
+scheduled, no answer",2026-08-04
+T-00095,high,Simple password reset,2026-08-14
+T-00096,medium,"Customer called,
+asked for refund",2026-02-08
+T-00097,low,"Follow-up
+scheduled, no answer",2026-03-20
+T-00098,low,"Said ""it broke
+after update"", escalated",2026-05-06
+T-00099,medium,"Customer called,
+asked for refund",2026-08-14
+T-00100,urgent,"Follow-up
+scheduled, no answer",2026-07-09
+T-00101,low,"Said ""it broke
+after update"", escalated",2026-01-22
+T-00102,urgent,"Said ""it broke
+after update"", escalated",2026-04-02
+T-00103,low,"Said ""it broke
+after update"", escalated",2026-02-20
+T-00104,urgent,Simple password reset,2026-09-05
+T-00105,urgent,"Follow-up
+scheduled, no answer",2026-08-03
+T-00106,low,"Customer called,
+asked for refund",2026-02-25
+T-00107,urgent,"Customer called,
+asked for refund",2026-07-07
+T-00108,low,Simple password reset,2026-02-07
+T-00109,medium,Simple password reset,2026-06-08
+T-00110,urgent,"Customer called,
+asked for refund",2026-04-28
+T-00111,low,Simple password reset,2026-09-13
+T-00112,urgent,"Said ""it broke
+after update"", escalated",2026-04-10
+T-00113,urgent,"Follow-up
+scheduled, no answer",2026-08-10
+T-00114,high,"Follow-up
+scheduled, no answer",2026-01-26
+T-00115,low,Simple password reset,2026-01-23
+T-00116,urgent,"Said ""it broke
+after update"", escalated",2026-08-16
+T-00117,urgent,"Follow-up
+scheduled, no answer",2026-08-04
+T-00118,medium,Simple password reset,2026-06-04
+T-00119,medium,"Customer called,
+asked for refund",2026-07-19
+T-00120,high,"Follow-up
+scheduled, no answer",2026-08-26
+T-00121,low,"Said ""it broke
+after update"", escalated",2026-02-22
+T-00122,high,"Customer called,
+asked for refund",2026-08-06
+T-00123,medium,"Follow-up
+scheduled, no answer",2026-03-12
+T-00124,urgent,"Follow-up
+scheduled, no answer",2026-02-26
+T-00125,high,"Follow-up
+scheduled, no answer",2026-03-09
+T-00126,low,Simple password reset,2026-04-18
+T-00127,high,"Said ""it broke
+after update"", escalated",2026-03-13
+T-00128,urgent,"Customer called,
+asked for refund",2026-07-10
+T-00129,low,"Customer called,
+asked for refund",2026-02-11
+T-00130,high,"Follow-up
+scheduled, no answer",2026-01-21
+T-00131,high,"Follow-up
+scheduled, no answer",2026-08-20
+T-00132,high,"Said ""it broke
+after update"", escalated",2026-08-26
+T-00133,low,Simple password reset,2026-02-04
+T-00134,high,"Customer called,
+asked for refund",2026-02-07
+T-00135,high,Simple password reset,2026-09-26
+T-00136,medium,"Follow-up
+scheduled, no answer",2026-01-10
+T-00137,low,"Said ""it broke
+after update"", escalated",2026-09-22
+T-00138,low,Simple password reset,2026-01-28
+T-00139,high,"Follow-up
+scheduled, no answer",2026-01-12
+T-00140,medium,Simple password reset,2026-05-11
+T-00141,high,Simple password reset,2026-04-06
+T-00142,low,"Follow-up
+scheduled, no answer",2026-08-21
+T-00143,high,Simple password reset,2026-08-08
+T-00144,urgent,Simple password reset,2026-07-14
+T-00145,urgent,Simple password reset,2026-06-23
+T-00146,urgent,Simple password reset,2026-03-09
+T-00147,low,"Follow-up
+scheduled, no answer",2026-09-11
+T-00148,urgent,"Follow-up
+scheduled, no answer",2026-05-19
+T-00149,medium,"Said ""it broke
+after update"", escalated",2026-01-01
+T-00150,urgent,"Customer called,
+asked for refund",2026-04-25
+T-00151,low,Simple password reset,2026-02-06
+T-00152,medium,Simple password reset,2026-01-15
+T-00153,low,"Follow-up
+scheduled, no answer",2026-09-27
+T-00154,urgent,Simple password reset,2026-07-26
+T-00155,high,"Customer called,
+asked for refund",2026-09-13
+T-00156,high,"Said ""it broke
+after update"", escalated",2026-08-25
+T-00157,high,"Follow-up
+scheduled, no answer",2026-04-19
+T-00158,medium,"Customer called,
+asked for refund",2026-01-25
+T-00159,medium,"Follow-up
+scheduled, no answer",2026-06-06
+T-00160,urgent,"Customer called,
+asked for refund",2026-01-16
+T-00161,low,"Customer called,
+asked for refund",2026-04-23
+T-00162,medium,"Follow-up
+scheduled, no answer",2026-08-11
+T-00163,medium,"Said ""it broke
+after update"", escalated",2026-03-15
+T-00164,medium,"Follow-up
+scheduled, no answer",2026-03-01
+T-00165,urgent,"Follow-up
+scheduled, no answer",2026-03-02
+T-00166,medium,Simple password reset,2026-04-19
+T-00167,high,"Said ""it broke
+after update"", escalated",2026-01-22
+T-00168,urgent,"Customer called,
+asked for refund",2026-06-01
+T-00169,high,"Follow-up
+scheduled, no answer",2026-05-18
+T-00170,high,"Said ""it broke
+after update"", escalated",2026-08-07
+T-00171,urgent,"Customer called,
+asked for refund",2026-03-14
+T-00172,urgent,Simple password reset,2026-03-14
+T-00173,low,"Follow-up
+scheduled, no answer",2026-04-12
+T-00174,medium,Simple password reset,2026-01-05
+T-00175,high,"Follow-up
+scheduled, no answer",2026-07-28
+T-00176,urgent,"Customer called,
+asked for refund",2026-05-13
+T-00177,low,"Follow-up
+scheduled, no answer",2026-04-28
+T-00178,urgent,"Customer called,
+asked for refund",2026-07-18
+T-00179,low,"Said ""it broke
+after update"", escalated",2026-03-20
+T-00180,urgent,"Follow-up
+scheduled, no answer",2026-03-09
+T-00181,high,"Follow-up
+scheduled, no answer",2026-02-27
+T-00182,urgent,"Customer called,
+asked for refund",2026-09-24
+T-00183,medium,"Customer called,
+asked for refund",2026-04-12
+T-00184,high,Simple password reset,2026-09-19
+T-00185,urgent,"Customer called,
+asked for refund",2026-01-20
+T-00186,low,Simple password reset,2026-09-09
+T-00187,high,"Follow-up
+scheduled, no answer",2026-05-04
+T-00188,high,"Said ""it broke
+after update"", escalated",2026-04-13
+T-00189,low,"Customer called,
+asked for refund",2026-09-08
+T-00190,low,"Follow-up
+scheduled, no answer",2026-07-02
+T-00191,urgent,"Said ""it broke
+after update"", escalated",2026-02-08
+T-00192,urgent,Simple password reset,2026-04-05
+T-00193,high,"Said ""it broke
+after update"", escalated",2026-02-07
+T-00194,low,"Customer called,
+asked for refund",2026-06-18
+T-00195,low,"Follow-up
+scheduled, no answer",2026-06-08
+T-00196,urgent,"Follow-up
+scheduled, no answer",2026-05-10
+T-00197,urgent,"Said ""it broke
+after update"", escalated",2026-06-08
+T-00198,low,Simple password reset,2026-07-12
+T-00199,urgent,"Customer called,
+asked for refund",2026-09-02
+T-00200,high,"Customer called,
+asked for refund",2026-06-06
+T-00201,urgent,"Customer called,
+asked for refund",2026-03-18
+T-00202,low,Simple password reset,2026-05-05
+T-00203,low,"Customer called,
+asked for refund",2026-09-08
+T-00204,urgent,"Follow-up
+scheduled, no answer",2026-06-27
+T-00205,urgent,"Follow-up
+scheduled, no answer",2026-06-08
+T-00206,medium,"Customer called,
+asked for refund",2026-04-24
+T-00207,medium,"Customer called,
+asked for refund",2026-09-14
+T-00208,low,"Customer called,
+asked for refund",2026-02-15
+T-00209,medium,"Said ""it broke
+after update"", escalated",2026-02-22
+T-00210,urgent,"Said ""it broke
+after update"", escalated",2026-03-26
+T-00211,urgent,"Follow-up
+scheduled, no answer",2026-02-12
+T-00212,medium,Simple password reset,2026-05-07
+T-00213,medium,"Said ""it broke
+after update"", escalated",2026-03-21
+T-00214,medium,"Customer called,
+asked for refund",2026-07-25
+T-00215,low,Simple password reset,2026-04-25
+T-00216,high,"Customer called,
+asked for refund",2026-07-21
+T-00217,urgent,Simple password reset,2026-08-28
+T-00218,high,"Said ""it broke
+after update"", escalated",2026-02-27
+T-00219,high,"Customer called,
+asked for refund",2026-09-09
+T-00220,urgent,Simple password reset,2026-05-24
+T-00221,medium,"Follow-up
+scheduled, no answer",2026-05-06
+T-00222,high,"Said ""it broke
+after update"", escalated",2026-07-07
+T-00223,medium,Simple password reset,2026-08-24
+T-00224,low,"Customer called,
+asked for refund",2026-02-15
+T-00225,low,"Follow-up
+scheduled, no answer",2026-06-14
+T-00226,high,"Customer called,
+asked for refund",2026-02-15
+T-00227,low,"Customer called,
+asked for refund",2026-08-19
+T-00228,high,Simple password reset,2026-01-28
+T-00229,high,"Said ""it broke
+after update"", escalated",2026-03-28
+T-00230,low,"Follow-up
+scheduled, no answer",2026-05-12
+T-00231,medium,Simple password reset,2026-01-06
+T-00232,high,"Customer called,
+asked for refund",2026-03-22
+T-00233,low,"Said ""it broke
+after update"", escalated",2026-06-20
+T-00234,low,"Said ""it broke
+after update"", escalated",2026-07-06
+T-00235,high,"Said ""it broke
+after update"", escalated",2026-08-12
+T-00236,urgent,"Follow-up
+scheduled, no answer",2026-09-12
+T-00237,medium,"Follow-up
+scheduled, no answer",2026-05-03
+T-00238,low,"Follow-up
+scheduled, no answer",2026-09-21
+T-00239,medium,"Follow-up
+scheduled, no answer",2026-07-11
+T-00240,high,"Said ""it broke
+after update"", escalated",2026-04-19
+T-00241,medium,"Customer called,
+asked for refund",2026-09-11
+T-00242,medium,"Follow-up
+scheduled, no answer",2026-04-18
+T-00243,medium,Simple password reset,2026-06-04
+T-00244,medium,"Follow-up
+scheduled, no answer",2026-04-11
+T-00245,medium,"Follow-up
+scheduled, no answer",2026-03-18
+T-00246,high,"Follow-up
+scheduled, no answer",2026-08-27
+T-00247,medium,"Said ""it broke
+after update"", escalated",2026-08-21
+T-00248,high,"Said ""it broke
+after update"", escalated",2026-02-20
+T-00249,medium,"Follow-up
+scheduled, no answer",2026-02-15
+T-00250,urgent,Simple password reset,2026-09-12
+T-00251,low,"Customer called,
+asked for refund",2026-06-25
+T-00252,high,"Said ""it broke
+after update"", escalated",2026-05-17
+T-00253,high,"Said ""it broke
+after update"", escalated",2026-01-17
+T-00254,medium,"Follow-up
+scheduled, no answer",2026-04-22
+T-00255,urgent,"Customer called,
+asked for refund",2026-08-27
+T-00256,urgent,"Follow-up
+scheduled, no answer",2026-09-07
+T-00257,high,"Customer called,
+asked for refund",2026-05-07
+T-00258,high,"Follow-up
+scheduled, no answer",2026-01-20
+T-00259,urgent,"Said ""it broke
+after update"", escalated",2026-08-07
+T-00260,high,Simple password reset,2026-05-11
+T-00261,medium,"Customer called,
+asked for refund",2026-02-05
+T-00262,high,Simple password reset,2026-07-16
+T-00263,urgent,"Customer called,
+asked for refund",2026-02-17
+T-00264,low,Simple password reset,2026-09-13
+T-00265,low,"Said ""it broke
+after update"", escalated",2026-08-21
+T-00266,high,"Said ""it broke
+after update"", escalated",2026-08-02
+T-00267,urgent,"Customer called,
+asked for refund",2026-05-13
+T-00268,high,Simple password reset,2026-07-27
+T-00269,low,"Follow-up
+scheduled, no answer",2026-05-04
+T-00270,urgent,"Customer called,
+asked for refund",2026-01-28
+T-00271,low,"Follow-up
+scheduled, no answer",2026-02-15
+T-00272,urgent,Simple password reset,2026-05-10
+T-00273,urgent,Simple password reset,2026-08-06
+T-00274,high,"Said ""it broke
+after update"", escalated",2026-07-23
+T-00275,medium,"Customer called,
+asked for refund",2026-06-26
+T-00276,high,Simple password reset,2026-03-14
+T-00277,urgent,"Follow-up
+scheduled, no answer",2026-05-21
+T-00278,low,"Said ""it broke
+after update"", escalated",2026-03-09
+T-00279,urgent,Simple password reset,2026-03-02
+T-00280,medium,"Customer called,
+asked for refund",2026-02-28
+T-00281,medium,"Customer called,
+asked for refund",2026-03-14
+T-00282,medium,"Customer called,
+asked for refund",2026-05-07
+T-00283,medium,"Customer called,
+asked for refund",2026-04-27
+T-00284,urgent,"Customer called,
+asked for refund",2026-04-18
+T-00285,urgent,Simple password reset,2026-03-02
+T-00286,medium,"Follow-up
+scheduled, no answer",2026-06-16
+T-00287,medium,"Said ""it broke
+after update"", escalated",2026-03-10
+T-00288,urgent,"Follow-up
+scheduled, no answer",2026-04-14
+T-00289,low,Simple password reset,2026-04-08
+T-00290,medium,Simple password reset,2026-01-08
+T-00291,urgent,"Customer called,
+asked for refund",2026-09-11
+T-00292,high,"Customer called,
+asked for refund",2026-02-21
+T-00293,low,Simple password reset,2026-01-24
+T-00294,urgent,"Customer called,
+asked for refund",2026-03-25
+T-00295,low,"Customer called,
+asked for refund",2026-02-04
+T-00296,low,Simple password reset,2026-04-27
+T-00297,high,Simple password reset,2026-01-07
+T-00298,low,Simple password reset,2026-09-13
+T-00299,low,"Customer called,
+asked for refund",2026-02-12
+T-00300,medium,Simple password reset,2026-05-24
+T-00301,high,"Said ""it broke
+after update"", escalated",2026-01-26
+T-00302,high,"Said ""it broke
+after update"", escalated",2026-08-11
+T-00303,urgent,"Follow-up
+scheduled, no answer",2026-04-06
+T-00304,low,"Said ""it broke
+after update"", escalated",2026-04-01
+T-00305,high,"Follow-up
+scheduled, no answer",2026-07-18
+T-00306,urgent,"Said ""it broke
+after update"", escalated",2026-08-05
+T-00307,low,"Said ""it broke
+after update"", escalated",2026-04-09
+T-00308,medium,"Customer called,
+asked for refund",2026-01-14
+T-00309,medium,"Customer called,
+asked for refund",2026-01-17
+T-00310,medium,"Follow-up
+scheduled, no answer",2026-06-19
+T-00311,low,Simple password reset,2026-05-19
+T-00312,urgent,"Said ""it broke
+after update"", escalated",2026-02-04
+T-00313,medium,"Follow-up
+scheduled, no answer",2026-06-20
+T-00314,high,"Said ""it broke
+after update"", escalated",2026-08-25
+T-00315,medium,"Follow-up
+scheduled, no answer",2026-09-18
+T-00316,medium,"Follow-up
+scheduled, no answer",2026-03-23
+T-00317,low,"Follow-up
+scheduled, no answer",2026-04-07
+T-00318,medium,"Follow-up
+scheduled, no answer",2026-01-11
+T-00319,medium,Simple password reset,2026-06-27
+T-00320,low,Simple password reset,2026-05-09
+T-00321,medium,"Customer called,
+asked for refund",2026-07-08
+T-00322,urgent,"Said ""it broke
+after update"", escalated",2026-07-06
+T-00323,low,"Said ""it broke
+after update"", escalated",2026-09-08
+T-00324,medium,"Customer called,
+asked for refund",2026-08-15
+T-00325,low,"Follow-up
+scheduled, no answer",2026-09-11
+T-00326,medium,Simple password reset,2026-02-05
+T-00327,urgent,"Follow-up
+scheduled, no answer",2026-07-01
+T-00328,high,"Follow-up
+scheduled, no answer",2026-02-02
+T-00329,high,"Said ""it broke
+after update"", escalated",2026-09-28
+T-00330,high,"Said ""it broke
+after update"", escalated",2026-09-10
+T-00331,low,"Customer called,
+asked for refund",2026-04-15
+T-00332,high,"Customer called,
+asked for refund",2026-07-25
+T-00333,medium,"Follow-up
+scheduled, no answer",2026-04-13
+T-00334,medium,"Follow-up
+scheduled, no answer",2026-02-13
+T-00335,low,"Customer called,
+asked for refund",2026-02-23
+T-00336,low,"Customer called,
+asked for refund",2026-07-27
+T-00337,medium,"Said ""it broke
+after update"", escalated",2026-09-11
+T-00338,medium,Simple password reset,2026-01-02
+T-00339,low,Simple password reset,2026-01-14
+T-00340,low,"Customer called,
+asked for refund",2026-08-11
+T-00341,medium,"Customer called,
+asked for refund",2026-01-18
+T-00342,medium,"Customer called,
+asked for refund",2026-03-22
+T-00343,low,"Customer called,
+asked for refund",2026-01-07
+T-00344,high,"Customer called,
+asked for refund",2026-02-16
+T-00345,high,"Customer called,
+asked for refund",2026-04-13
+T-00346,medium,"Customer called,
+asked for refund",2026-09-05
+T-00347,low,"Customer called,
+asked for refund",2026-03-16
+T-00348,low,"Follow-up
+scheduled, no answer",2026-02-28
+T-00349,low,"Follow-up
+scheduled, no answer",2026-04-17
+T-00350,urgent,"Customer called,
+asked for refund",2026-01-21
+T-00351,high,"Follow-up
+scheduled, no answer",2026-05-21
+T-00352,high,"Customer called,
+asked for refund",2026-06-20
+T-00353,high,"Said ""it broke
+after update"", escalated",2026-08-22
+T-00354,medium,"Follow-up
+scheduled, no answer",2026-07-22
+T-00355,medium,"Said ""it broke
+after update"", escalated",2026-08-15
+T-00356,medium,Simple password reset,2026-04-16
+T-00357,medium,"Customer called,
+asked for refund",2026-06-07
+T-00358,medium,"Customer called,
+asked for refund",2026-02-24
+T-00359,low,"Customer called,
+asked for refund",2026-05-25
+T-00360,urgent,Simple password reset,2026-09-03
+T-00361,high,"Customer called,
+asked for refund",2026-03-11
+T-00362,medium,Simple password reset,2026-03-15
+T-00363,medium,"Customer called,
+asked for refund",2026-02-19
+T-00364,medium,Simple password reset,2026-04-22
+T-00365,urgent,"Follow-up
+scheduled, no answer",2026-06-08
+T-00366,low,Simple password reset,2026-02-13
+T-00367,medium,"Customer called,
+asked for refund",2026-07-13
+T-00368,low,"Follow-up
+scheduled, no answer",2026-08-26
+T-00369,high,"Follow-up
+scheduled, no answer",2026-08-22
+T-00370,medium,"Said ""it broke
+after update"", escalated",2026-05-06
+T-00371,medium,"Said ""it broke
+after update"", escalated",2026-05-03
+T-00372,urgent,"Follow-up
+scheduled, no answer",2026-04-05
+T-00373,low,"Customer called,
+asked for refund",2026-08-13
+T-00374,urgent,Simple password reset,2026-01-02
+T-00375,high,Simple password reset,2026-02-11
+T-00376,medium,"Customer called,
+asked for refund",2026-04-15
+T-00377,high,"Customer called,
+asked for refund",2026-08-17
+T-00378,urgent,"Customer called,
+asked for refund",2026-09-25
+T-00379,urgent,"Said ""it broke
+after update"", escalated",2026-05-16
+T-00380,low,Simple password reset,2026-04-18
+T-00381,medium,"Customer called,
+asked for refund",2026-08-24
+T-00382,medium,"Follow-up
+scheduled, no answer",2026-08-18
+T-00383,high,"Said ""it broke
+after update"", escalated",2026-07-04
+T-00384,medium,"Follow-up
+scheduled, no answer",2026-05-27
+T-00385,high,"Follow-up
+scheduled, no answer",2026-04-20
+T-00386,urgent,Simple password reset,2026-02-10
+T-00387,medium,"Follow-up
+scheduled, no answer",2026-03-10
+T-00388,medium,"Follow-up
+scheduled, no answer",2026-01-15
+T-00389,urgent,"Follow-up
+scheduled, no answer",2026-04-04
+T-00390,high,"Follow-up
+scheduled, no answer",2026-08-18
+T-00391,medium,Simple password reset,2026-07-05
+T-00392,low,Simple password reset,2026-07-17
+T-00393,urgent,"Follow-up
+scheduled, no answer",2026-07-21
+T-00394,low,"Said ""it broke
+after update"", escalated",2026-09-24
+T-00395,high,"Said ""it broke
+after update"", escalated",2026-03-23
+T-00396,urgent,"Follow-up
+scheduled, no answer",2026-04-18
+T-00397,medium,Simple password reset,2026-02-11
+T-00398,urgent,"Said ""it broke
+after update"", escalated",2026-03-03
+T-00399,low,Simple password reset,2026-03-24
+T-00400,medium,"Follow-up
+scheduled, no answer",2026-07-16
+T-00401,high,Simple password reset,2026-07-17
+T-00402,low,Simple password reset,2026-04-18
+T-00403,urgent,"Said ""it broke
+after update"", escalated",2026-04-11
+T-00404,medium,Simple password reset,2026-09-22
+T-00405,medium,"Follow-up
+scheduled, no answer",2026-06-17
+T-00406,low,Simple password reset,2026-01-11
+T-00407,low,Simple password reset,2026-04-05
+T-00408,low,Simple password reset,2026-03-11
+T-00409,urgent,"Said ""it broke
+after update"", escalated",2026-03-17
+T-00410,urgent,"Said ""it broke
+after update"", escalated",2026-04-22
+T-00411,high,Simple password reset,2026-07-04
+T-00412,high,Simple password reset,2026-07-25
+T-00413,high,"Follow-up
+scheduled, no answer",2026-02-07
+T-00414,low,"Customer called,
+asked for refund",2026-01-11
+T-00415,low,"Follow-up
+scheduled, no answer",2026-08-16
+T-00416,medium,"Said ""it broke
+after update"", escalated",2026-05-28
+T-00417,medium,"Customer called,
+asked for refund",2026-01-02
+T-00418,urgent,"Customer called,
+asked for refund",2026-02-26
+T-00419,low,"Said ""it broke
+after update"", escalated",2026-07-25
+T-00420,high,"Follow-up
+scheduled, no answer",2026-05-02
+T-00421,low,"Customer called,
+asked for refund",2026-02-14
+T-00422,low,Simple password reset,2026-08-05
+T-00423,urgent,Simple password reset,2026-09-27
+T-00424,high,"Said ""it broke
+after update"", escalated",2026-01-28
+T-00425,high,"Customer called,
+asked for refund",2026-08-07
+T-00426,high,"Said ""it broke
+after update"", escalated",2026-04-15
+T-00427,high,"Customer called,
+asked for refund",2026-02-13
+T-00428,medium,"Follow-up
+scheduled, no answer",2026-05-15
+T-00429,low,Simple password reset,2026-09-17
+T-00430,high,"Said ""it broke
+after update"", escalated",2026-02-22
+T-00431,medium,"Said ""it broke
+after update"", escalated",2026-01-17
+T-00432,urgent,"Said ""it broke
+after update"", escalated",2026-05-06
+T-00433,low,Simple password reset,2026-06-13
+T-00434,urgent,"Said ""it broke
+after update"", escalated",2026-03-25
+T-00435,urgent,"Follow-up
+scheduled, no answer",2026-05-08
+T-00436,high,"Follow-up
+scheduled, no answer",2026-07-14
+T-00437,medium,"Customer called,
+asked for refund",2026-09-22
+T-00438,high,"Follow-up
+scheduled, no answer",2026-05-03
+T-00439,low,"Said ""it broke
+after update"", escalated",2026-08-22
+T-00440,low,"Follow-up
+scheduled, no answer",2026-08-19
+T-00441,high,Simple password reset,2026-04-02
+T-00442,high,"Follow-up
+scheduled, no answer",2026-04-26
+T-00443,urgent,"Follow-up
+scheduled, no answer",2026-05-11
+T-00444,urgent,"Customer called,
+asked for refund",2026-01-17
+T-00445,low,"Customer called,
+asked for refund",2026-08-05
+T-00446,high,"Said ""it broke
+after update"", escalated",2026-05-23
+T-00447,medium,"Said ""it broke
+after update"", escalated",2026-02-27
+T-00448,medium,Simple password reset,2026-01-02
+T-00449,high,"Said ""it broke
+after update"", escalated",2026-07-09
+T-00450,medium,Simple password reset,2026-07-27
+T-00451,low,"Follow-up
+scheduled, no answer",2026-08-14
+T-00452,high,"Said ""it broke
+after update"", escalated",2026-06-26
+T-00453,medium,"Follow-up
+scheduled, no answer",2026-02-16
+T-00454,low,"Customer called,
+asked for refund",2026-04-09
+T-00455,high,"Said ""it broke
+after update"", escalated",2026-05-28
+T-00456,high,Simple password reset,2026-04-26
+T-00457,medium,"Follow-up
+scheduled, no answer",2026-05-02
+T-00458,medium,"Follow-up
+scheduled, no answer",2026-02-04
+T-00459,low,"Follow-up
+scheduled, no answer",2026-05-28
+T-00460,urgent,Simple password reset,2026-04-24
+T-00461,medium,"Customer called,
+asked for refund",2026-03-09
+T-00462,low,"Said ""it broke
+after update"", escalated",2026-01-25
+T-00463,urgent,"Customer called,
+asked for refund",2026-05-14
+T-00464,low,Simple password reset,2026-01-13
+T-00465,urgent,Simple password reset,2026-08-22
+T-00466,high,Simple password reset,2026-02-06
+T-00467,high,Simple password reset,2026-09-05
+T-00468,urgent,"Said ""it broke
+after update"", escalated",2026-05-19
+T-00469,low,"Follow-up
+scheduled, no answer",2026-09-20
+T-00470,medium,"Follow-up
+scheduled, no answer",2026-07-10
+T-00471,low,"Customer called,
+asked for refund",2026-04-11
+T-00472,urgent,"Said ""it broke
+after update"", escalated",2026-05-04
+T-00473,medium,Simple password reset,2026-09-02
+T-00474,urgent,"Customer called,
+asked for refund",2026-05-01
+T-00475,low,"Said ""it broke
+after update"", escalated",2026-09-02
+T-00476,urgent,"Said ""it broke
+after update"", escalated",2026-05-13
+T-00477,urgent,Simple password reset,2026-03-06
+T-00478,high,"Said ""it broke
+after update"", escalated",2026-05-23
+T-00479,high,"Customer called,
+asked for refund",2026-06-27
+T-00480,low,"Said ""it broke
+after update"", escalated",2026-06-09
+T-00481,urgent,"Follow-up
+scheduled, no answer",2026-07-01
+T-00482,low,"Said ""it broke
+after update"", escalated",2026-02-16
+T-00483,urgent,"Customer called,
+asked for refund",2026-02-27
+T-00484,low,"Said ""it broke
+after update"", escalated",2026-09-08
+T-00485,low,"Customer called,
+asked for refund",2026-03-16
+T-00486,urgent,Simple password reset,2026-02-27
+T-00487,medium,"Follow-up
+scheduled, no answer",2026-08-15
+T-00488,medium,Simple password reset,2026-09-20
+T-00489,urgent,Simple password reset,2026-04-03
+T-00490,high,Simple password reset,2026-01-07
+T-00491,low,"Follow-up
+scheduled, no answer",2026-05-05
+T-00492,urgent,"Follow-up
+scheduled, no answer",2026-04-17
+T-00493,low,Simple password reset,2026-06-18
+T-00494,low,"Follow-up
+scheduled, no answer",2026-06-27
+T-00495,urgent,"Follow-up
+scheduled, no answer",2026-09-06
+T-00496,high,"Said ""it broke
+after update"", escalated",2026-08-25
+T-00497,high,"Follow-up
+scheduled, no answer",2026-02-25
+T-00498,urgent,"Said ""it broke
+after update"", escalated",2026-07-06
+T-00499,urgent,Simple password reset,2026-08-13
+T-00500,urgent,"Follow-up
+scheduled, no answer",2026-06-21
+T-00501,high,Simple password reset,2026-01-08
+T-00502,high,"Customer called,
+asked for refund",2026-07-07
+T-00503,medium,Simple password reset,2026-01-23
+T-00504,medium,Simple password reset,2026-03-24
+T-00505,high,"Said ""it broke
+after update"", escalated",2026-02-27
+T-00506,low,Simple password reset,2026-07-09
+T-00507,urgent,Simple password reset,2026-01-12
+T-00508,urgent,"Said ""it broke
+after update"", escalated",2026-08-07
+T-00509,high,"Customer called,
+asked for refund",2026-06-15
+T-00510,high,Simple password reset,2026-01-17
+T-00511,high,"Follow-up
+scheduled, no answer",2026-06-25
+T-00512,low,"Customer called,
+asked for refund",2026-06-13
+T-00513,medium,"Said ""it broke
+after update"", escalated",2026-06-03
+T-00514,low,"Customer called,
+asked for refund",2026-07-17
+T-00515,low,Simple password reset,2026-01-23
+T-00516,medium,"Said ""it broke
+after update"", escalated",2026-01-10
+T-00517,high,Simple password reset,2026-02-08
+T-00518,medium,"Customer called,
+asked for refund",2026-05-25
+T-00519,low,Simple password reset,2026-02-19
+T-00520,urgent,"Said ""it broke
+after update"", escalated",2026-02-19
+T-00521,high,"Follow-up
+scheduled, no answer",2026-03-09
+T-00522,high,"Said ""it broke
+after update"", escalated",2026-06-07
+T-00523,medium,"Follow-up
+scheduled, no answer",2026-01-18
+T-00524,high,"Said ""it broke
+after update"", escalated",2026-07-01
+T-00525,medium,Simple password reset,2026-06-15
+T-00526,high,"Said ""it broke
+after update"", escalated",2026-05-10
+T-00527,high,"Follow-up
+scheduled, no answer",2026-06-02
+T-00528,urgent,"Said ""it broke
+after update"", escalated",2026-07-27
+T-00529,high,"Follow-up
+scheduled, no answer",2026-07-10
+T-00530,high,"Said ""it broke
+after update"", escalated",2026-01-17
+T-00531,low,"Customer called,
+asked for refund",2026-06-18
+T-00532,low,Simple password reset,2026-07-01
+T-00533,medium,Simple password reset,2026-05-25
+T-00534,medium,Simple password reset,2026-06-06
+T-00535,urgent,"Customer called,
+asked for refund",2026-02-27
+T-00536,high,"Said ""it broke
+after update"", escalated",2026-04-03
+T-00537,urgent,"Said ""it broke
+after update"", escalated",2026-06-02
+T-00538,low,"Follow-up
+scheduled, no answer",2026-07-21
+T-00539,medium,"Said ""it broke
+after update"", escalated",2026-08-03
+T-00540,medium,"Said ""it broke
+after update"", escalated",2026-09-07
+T-00541,low,Simple password reset,2026-06-04
+T-00542,low,"Customer called,
+asked for refund",2026-05-08
+T-00543,medium,"Follow-up
+scheduled, no answer",2026-01-06
+T-00544,medium,"Customer called,
+asked for refund",2026-06-04
+T-00545,high,"Customer called,
+asked for refund",2026-06-07
+T-00546,high,Simple password reset,2026-09-28
+T-00547,urgent,"Said ""it broke
+after update"", escalated",2026-08-19
+T-00548,high,"Follow-up
+scheduled, no answer",2026-04-22
+T-00549,low,"Follow-up
+scheduled, no answer",2026-06-22
+T-00550,medium,Simple password reset,2026-02-05
+T-00551,high,"Said ""it broke
+after update"", escalated",2026-04-08
+T-00552,high,"Customer called,
+asked for refund",2026-07-28
+T-00553,high,"Follow-up
+scheduled, no answer",2026-08-16
+T-00554,high,Simple password reset,2026-01-08
+T-00555,urgent,"Said ""it broke
+after update"", escalated",2026-03-24
+T-00556,low,Simple password reset,2026-01-01
+T-00557,urgent,"Said ""it broke
+after update"", escalated",2026-08-05
+T-00558,low,"Said ""it broke
+after update"", escalated",2026-06-28
+T-00559,urgent,"Follow-up
+scheduled, no answer",2026-07-20
+T-00560,medium,"Follow-up
+scheduled, no answer",2026-03-08
+T-00561,low,"Said ""it broke
+after update"", escalated",2026-07-22
+T-00562,urgent,"Customer called,
+asked for refund",2026-01-21
+T-00563,urgent,"Said ""it broke
+after update"", escalated",2026-04-18
+T-00564,low,"Said ""it broke
+after update"", escalated",2026-06-12
+T-00565,low,"Customer called,
+asked for refund",2026-03-07
+T-00566,low,"Customer called,
+asked for refund",2026-07-21
+T-00567,high,"Said ""it broke
+after update"", escalated",2026-09-22
+T-00568,medium,"Customer called,
+asked for refund",2026-06-18
+T-00569,medium,"Follow-up
+scheduled, no answer",2026-01-26
+T-00570,high,"Customer called,
+asked for refund",2026-03-14
+T-00571,high,Simple password reset,2026-04-08
+T-00572,low,"Follow-up
+scheduled, no answer",2026-06-11
+T-00573,low,Simple password reset,2026-04-24
+T-00574,low,Simple password reset,2026-09-12
+T-00575,low,"Follow-up
+scheduled, no answer",2026-04-19
+T-00576,high,"Said ""it broke
+after update"", escalated",2026-05-25
+T-00577,high,Simple password reset,2026-03-18
+T-00578,medium,Simple password reset,2026-06-14
+T-00579,urgent,Simple password reset,2026-09-28
+T-00580,high,"Follow-up
+scheduled, no answer",2026-02-07
+T-00581,low,"Customer called,
+asked for refund",2026-05-05
+T-00582,low,"Follow-up
+scheduled, no answer",2026-03-14
+T-00583,medium,Simple password reset,2026-09-09
+T-00584,medium,"Said ""it broke
+after update"", escalated",2026-02-15
+T-00585,low,"Said ""it broke
+after update"", escalated",2026-07-17
+T-00586,low,"Follow-up
+scheduled, no answer",2026-04-11
+T-00587,medium,"Said ""it broke
+after update"", escalated",2026-01-27
+T-00588,urgent,"Said ""it broke
+after update"", escalated",2026-08-01
+T-00589,medium,"Said ""it broke
+after update"", escalated",2026-05-20
+T-00590,low,"Follow-up
+scheduled, no answer",2026-08-09
+T-00591,urgent,"Follow-up
+scheduled, no answer",2026-02-16
+T-00592,high,"Follow-up
+scheduled, no answer",2026-01-27
+T-00593,urgent,"Follow-up
+scheduled, no answer",2026-04-15
+T-00594,medium,"Customer called,
+asked for refund",2026-01-24
+T-00595,medium,Simple password reset,2026-06-05
+T-00596,high,"Follow-up
+scheduled, no answer",2026-05-02
+T-00597,high,"Follow-up
+scheduled, no answer",2026-05-20
+T-00598,high,"Follow-up
+scheduled, no answer",2026-09-17
+T-00599,low,"Follow-up
+scheduled, no answer",2026-05-26
+T-00600,high,"Said ""it broke
+after update"", escalated",2026-02-17
+T-00601,medium,"Customer called,
+asked for refund",2026-04-14
+T-00602,urgent,"Customer called,
+asked for refund",2026-03-09
+T-00603,low,Simple password reset,2026-02-14
+T-00604,medium,"Said ""it broke
+after update"", escalated",2026-06-20
+T-00605,high,"Customer called,
+asked for refund",2026-05-11
+T-00606,low,Simple password reset,2026-02-03
+T-00607,low,"Follow-up
+scheduled, no answer",2026-05-21
+T-00608,high,Simple password reset,2026-07-02
+T-00609,high,Simple password reset,2026-04-07
+T-00610,high,Simple password reset,2026-03-21
+T-00611,medium,"Customer called,
+asked for refund",2026-06-07
+T-00612,low,Simple password reset,2026-06-11
+T-00613,urgent,"Customer called,
+asked for refund",2026-02-02
+T-00614,urgent,Simple password reset,2026-06-19
+T-00615,urgent,"Follow-up
+scheduled, no answer",2026-03-15
+T-00616,high,"Said ""it broke
+after update"", escalated",2026-05-17
+T-00617,low,"Said ""it broke
+after update"", escalated",2026-01-03
+T-00618,low,Simple password reset,2026-08-08
+T-00619,low,"Said ""it broke
+after update"", escalated",2026-02-08
+T-00620,urgent,Simple password reset,2026-03-03
+T-00621,high,"Follow-up
+scheduled, no answer",2026-03-04
+T-00622,medium,"Said ""it broke
+after update"", escalated",2026-05-01
+T-00623,low,"Said ""it broke
+after update"", escalated",2026-01-13
+T-00624,low,"Said ""it broke
+after update"", escalated",2026-02-08
+T-00625,medium,"Follow-up
+scheduled, no answer",2026-04-18
+T-00626,high,"Follow-up
+scheduled, no answer",2026-02-03
+T-00627,high,Simple password reset,2026-06-17
+T-00628,low,Simple password reset,2026-03-03
+T-00629,urgent,"Follow-up
+scheduled, no answer",2026-06-04
+T-00630,urgent,"Customer called,
+asked for refund",2026-09-04
+T-00631,high,Simple password reset,2026-01-04
+T-00632,high,"Customer called,
+asked for refund",2026-03-19
+T-00633,urgent,"Said ""it broke
+after update"", escalated",2026-08-04
+T-00634,high,"Said ""it broke
+after update"", escalated",2026-06-11
+T-00635,urgent,Simple password reset,2026-06-20
+T-00636,urgent,Simple password reset,2026-09-15
+T-00637,urgent,"Said ""it broke
+after update"", escalated",2026-07-28
+T-00638,low,"Said ""it broke
+after update"", escalated",2026-08-12
+T-00639,high,"Said ""it broke
+after update"", escalated",2026-06-25
+T-00640,low,Simple password reset,2026-02-27
+T-00641,medium,Simple password reset,2026-09-25
+T-00642,urgent,"Said ""it broke
+after update"", escalated",2026-08-23
+T-00643,high,Simple password reset,2026-01-21
+T-00644,medium,"Said ""it broke
+after update"", escalated",2026-03-11
+T-00645,high,"Customer called,
+asked for refund",2026-08-14
+T-00646,medium,"Follow-up
+scheduled, no answer",2026-08-27
+T-00647,medium,"Follow-up
+scheduled, no answer",2026-06-02
+T-00648,medium,"Follow-up
+scheduled, no answer",2026-07-21
+T-00649,high,Simple password reset,2026-04-23
+T-00650,medium,"Customer called,
+asked for refund",2026-07-09
+T-00651,urgent,"Customer called,
+asked for refund",2026-06-12
+T-00652,low,"Follow-up
+scheduled, no answer",2026-02-21
+T-00653,high,Simple password reset,2026-07-03
+T-00654,urgent,Simple password reset,2026-03-26
+T-00655,low,"Said ""it broke
+after update"", escalated",2026-05-22
+T-00656,high,Simple password reset,2026-09-03
+T-00657,urgent,Simple password reset,2026-04-10
+T-00658,high,"Follow-up
+scheduled, no answer",2026-04-13
+T-00659,urgent,"Follow-up
+scheduled, no answer",2026-03-28
+T-00660,low,Simple password reset,2026-01-08
+T-00661,urgent,Simple password reset,2026-05-08
+T-00662,medium,"Customer called,
+asked for refund",2026-04-05
+T-00663,high,Simple password reset,2026-08-01
+T-00664,medium,"Follow-up
+scheduled, no answer",2026-08-11
+T-00665,urgent,"Customer called,
+asked for refund",2026-08-20
+T-00666,medium,"Follow-up
+scheduled, no answer",2026-09-15
+T-00667,urgent,"Customer called,
+asked for refund",2026-05-06
+T-00668,medium,"Said ""it broke
+after update"", escalated",2026-03-09
+T-00669,urgent,"Follow-up
+scheduled, no answer",2026-02-05
+T-00670,low,"Customer called,
+asked for refund",2026-04-05
+T-00671,low,Simple password reset,2026-07-26
+T-00672,urgent,"Said ""it broke
+after update"", escalated",2026-08-19
+T-00673,low,"Said ""it broke
+after update"", escalated",2026-02-17
+T-00674,medium,Simple password reset,2026-03-07
+T-00675,medium,"Follow-up
+scheduled, no answer",2026-07-10
+T-00676,high,Simple password reset,2026-03-02
+T-00677,urgent,"Customer called,
+asked for refund",2026-09-12
+T-00678,urgent,"Follow-up
+scheduled, no answer",2026-07-05
+T-00679,medium,"Follow-up
+scheduled, no answer",2026-03-24
+T-00680,low,"Customer called,
+asked for refund",2026-07-05
+T-00681,high,"Said ""it broke
+after update"", escalated",2026-09-18
+T-00682,high,"Follow-up
+scheduled, no answer",2026-07-01
+T-00683,high,Simple password reset,2026-04-03
+T-00684,urgent,"Said ""it broke
+after update"", escalated",2026-04-07
+T-00685,medium,"Customer called,
+asked for refund",2026-07-07
+T-00686,urgent,Simple password reset,2026-09-08
+T-00687,urgent,"Customer called,
+asked for refund",2026-02-26
+T-00688,medium,"Follow-up
+scheduled, no answer",2026-04-04
+T-00689,urgent,Simple password reset,2026-01-16
+T-00690,urgent,Simple password reset,2026-05-19
+T-00691,high,"Follow-up
+scheduled, no answer",2026-01-15
+T-00692,urgent,"Follow-up
+scheduled, no answer",2026-07-23
+T-00693,medium,"Said ""it broke
+after update"", escalated",2026-03-02
+T-00694,medium,"Said ""it broke
+after update"", escalated",2026-07-15
+T-00695,high,"Follow-up
+scheduled, no answer",2026-08-14
+T-00696,medium,Simple password reset,2026-06-20
+T-00697,low,Simple password reset,2026-03-02
+T-00698,low,"Follow-up
+scheduled, no answer",2026-09-12
+T-00699,low,"Said ""it broke
+after update"", escalated",2026-09-21
+T-00700,high,"Said ""it broke
+after update"", escalated",2026-09-17
+T-00701,high,"Said ""it broke
+after update"", escalated",2026-04-05
+T-00702,high,"Follow-up
+scheduled, no answer",2026-09-15
+T-00703,high,"Customer called,
+asked for refund",2026-05-03
+T-00704,urgent,"Customer called,
+asked for refund",2026-09-02
+T-00705,low,"Follow-up
+scheduled, no answer",2026-08-03
+T-00706,high,"Follow-up
+scheduled, no answer",2026-06-09
+T-00707,high,"Follow-up
+scheduled, no answer",2026-05-20
+T-00708,low,"Follow-up
+scheduled, no answer",2026-05-26
+T-00709,urgent,"Follow-up
+scheduled, no answer",2026-04-15
+T-00710,high,"Follow-up
+scheduled, no answer",2026-09-05
+T-00711,high,"Customer called,
+asked for refund",2026-05-15
+T-00712,urgent,"Follow-up
+scheduled, no answer",2026-06-21
+T-00713,urgent,"Said ""it broke
+after update"", escalated",2026-03-03
+T-00714,low,"Follow-up
+scheduled, no answer",2026-07-28
+T-00715,urgent,"Customer called,
+asked for refund",2026-08-09
+T-00716,high,"Follow-up
+scheduled, no answer",2026-04-01
+T-00717,urgent,"Follow-up
+scheduled, no answer",2026-01-21
+T-00718,urgent,"Said ""it broke
+after update"", escalated",2026-03-08
+T-00719,medium,"Follow-up
+scheduled, no answer",2026-08-03
+T-00720,urgent,"Said ""it broke
+after update"", escalated",2026-03-11
+T-00721,medium,"Follow-up
+scheduled, no answer",2026-07-06
+T-00722,medium,"Said ""it broke
+after update"", escalated",2026-02-25
+T-00723,high,"Said ""it broke
+after update"", escalated",2026-01-05
+T-00724,medium,Simple password reset,2026-06-27
+T-00725,medium,"Customer called,
+asked for refund",2026-05-13
+T-00726,medium,"Customer called,
+asked for refund",2026-04-20
+T-00727,low,"Follow-up
+scheduled, no answer",2026-07-21
+T-00728,low,Simple password reset,2026-09-04
+T-00729,urgent,"Said ""it broke
+after update"", escalated",2026-02-08
+T-00730,medium,Simple password reset,2026-02-18
+T-00731,high,"Said ""it broke
+after update"", escalated",2026-05-06
+T-00732,low,"Follow-up
+scheduled, no answer",2026-03-20
+T-00733,medium,"Follow-up
+scheduled, no answer",2026-07-14
+T-00734,medium,Simple password reset,2026-09-14
+T-00735,high,Simple password reset,2026-05-17
+T-00736,low,Simple password reset,2026-03-27
+T-00737,high,Simple password reset,2026-06-02
+T-00738,high,Simple password reset,2026-04-13
+T-00739,urgent,"Customer called,
+asked for refund",2026-07-15
+T-00740,urgent,"Follow-up
+scheduled, no answer",2026-08-28
+T-00741,urgent,"Follow-up
+scheduled, no answer",2026-06-26
+T-00742,medium,Simple password reset,2026-01-06
+T-00743,urgent,"Said ""it broke
+after update"", escalated",2026-08-23
+T-00744,low,"Customer called,
+asked for refund",2026-06-15
+T-00745,medium,"Said ""it broke
+after update"", escalated",2026-04-16
+T-00746,high,"Said ""it broke
+after update"", escalated",2026-04-17
+T-00747,medium,"Customer called,
+asked for refund",2026-02-19
+T-00748,low,"Follow-up
+scheduled, no answer",2026-08-10
+T-00749,medium,"Said ""it broke
+after update"", escalated",2026-01-27
+T-00750,high,"Customer called,
+asked for refund",2026-06-26
+T-00751,low,Simple password reset,2026-09-15
+T-00752,urgent,"Customer called,
+asked for refund",2026-06-08
+T-00753,medium,"Follow-up
+scheduled, no answer",2026-03-12
+T-00754,low,"Said ""it broke
+after update"", escalated",2026-02-27
+T-00755,high,"Follow-up
+scheduled, no answer",2026-02-07
+T-00756,medium,"Customer called,
+asked for refund",2026-04-05
+T-00757,low,"Follow-up
+scheduled, no answer",2026-01-21
+T-00758,urgent,"Follow-up
+scheduled, no answer",2026-03-17
+T-00759,medium,Simple password reset,2026-05-10
+T-00760,urgent,"Follow-up
+scheduled, no answer",2026-07-15
+T-00761,high,"Customer called,
+asked for refund",2026-05-05
+T-00762,high,Simple password reset,2026-02-17
+T-00763,urgent,"Follow-up
+scheduled, no answer",2026-03-01
+T-00764,medium,Simple password reset,2026-07-18
+T-00765,low,"Follow-up
+scheduled, no answer",2026-07-10
+T-00766,medium,"Follow-up
+scheduled, no answer",2026-05-14
+T-00767,urgent,"Follow-up
+scheduled, no answer",2026-09-27
+T-00768,urgent,"Follow-up
+scheduled, no answer",2026-09-15
+T-00769,high,"Follow-up
+scheduled, no answer",2026-01-19
+T-00770,high,"Customer called,
+asked for refund",2026-01-11
+T-00771,high,"Said ""it broke
+after update"", escalated",2026-02-13
+T-00772,low,"Said ""it broke
+after update"", escalated",2026-01-12
+T-00773,medium,"Follow-up
+scheduled, no answer",2026-03-11
+T-00774,urgent,"Said ""it broke
+after update"", escalated",2026-02-06
+T-00775,low,Simple password reset,2026-07-14
+T-00776,low,Simple password reset,2026-01-13
+T-00777,urgent,"Customer called,
+asked for refund",2026-04-07
+T-00778,medium,"Follow-up
+scheduled, no answer",2026-07-02
+T-00779,medium,"Follow-up
+scheduled, no answer",2026-09-14
+T-00780,low,"Customer called,
+asked for refund",2026-07-27
+T-00781,urgent,Simple password reset,2026-08-20
+T-00782,high,"Follow-up
+scheduled, no answer",2026-07-14
+T-00783,medium,"Follow-up
+scheduled, no answer",2026-04-02
+T-00784,high,"Said ""it broke
+after update"", escalated",2026-03-28
+T-00785,high,"Said ""it broke
+after update"", escalated",2026-08-01
+T-00786,medium,"Said ""it broke
+after update"", escalated",2026-04-22
+T-00787,low,"Said ""it broke
+after update"", escalated",2026-08-06
+T-00788,medium,"Said ""it broke
+after update"", escalated",2026-07-06
+T-00789,urgent,"Said ""it broke
+after update"", escalated",2026-06-24
+T-00790,high,Simple password reset,2026-09-15
+T-00791,urgent,"Said ""it broke
+after update"", escalated",2026-07-17
+T-00792,high,Simple password reset,2026-07-15
+T-00793,low,Simple password reset,2026-03-20
+T-00794,urgent,"Customer called,
+asked for refund",2026-06-25
+T-00795,low,"Customer called,
+asked for refund",2026-08-03
+T-00796,medium,"Follow-up
+scheduled, no answer",2026-05-05
+T-00797,high,"Customer called,
+asked for refund",2026-05-08
+T-00798,low,"Follow-up
+scheduled, no answer",2026-05-19
+T-00799,low,"Follow-up
+scheduled, no answer",2026-04-12
+T-00800,high,"Said ""it broke
+after update"", escalated",2026-05-15
+T-00801,medium,"Customer called,
+asked for refund",2026-03-13
+T-00802,low,"Customer called,
+asked for refund",2026-09-18
+T-00803,low,"Follow-up
+scheduled, no answer",2026-09-04
+T-00804,low,"Customer called,
+asked for refund",2026-09-07
+T-00805,low,Simple password reset,2026-06-03
+T-00806,medium,"Said ""it broke
+after update"", escalated",2026-08-22
+T-00807,medium,"Said ""it broke
+after update"", escalated",2026-08-20
+T-00808,high,"Follow-up
+scheduled, no answer",2026-03-19
+T-00809,low,"Customer called,
+asked for refund",2026-09-04
+T-00810,urgent,"Follow-up
+scheduled, no answer",2026-05-04
+T-00811,medium,"Said ""it broke
+after update"", escalated",2026-03-03
+T-00812,high,"Follow-up
+scheduled, no answer",2026-08-24
+T-00813,medium,Simple password reset,2026-06-12
+T-00814,medium,"Said ""it broke
+after update"", escalated",2026-04-13
+T-00815,low,"Customer called,
+asked for refund",2026-06-18
+T-00816,low,"Customer called,
+asked for refund",2026-02-10
+T-00817,high,"Customer called,
+asked for refund",2026-03-11
+T-00818,low,"Said ""it broke
+after update"", escalated",2026-01-12
+T-00819,urgent,"Said ""it broke
+after update"", escalated",2026-05-11
+T-00820,medium,"Customer called,
+asked for refund",2026-03-26
+T-00821,high,"Customer called,
+asked for refund",2026-06-22
+T-00822,low,Simple password reset,2026-01-02
+T-00823,urgent,"Customer called,
+asked for refund",2026-08-09
+T-00824,urgent,"Follow-up
+scheduled, no answer",2026-02-04
+T-00825,low,"Follow-up
+scheduled, no answer",2026-02-18
+T-00826,urgent,Simple password reset,2026-09-21
+T-00827,medium,"Follow-up
+scheduled, no answer",2026-06-04
+T-00828,low,"Customer called,
+asked for refund",2026-07-24
+T-00829,low,Simple password reset,2026-04-24
+T-00830,low,"Customer called,
+asked for refund",2026-08-25
+T-00831,medium,Simple password reset,2026-06-25
+T-00832,urgent,"Follow-up
+scheduled, no answer",2026-09-25
+T-00833,medium,"Customer called,
+asked for refund",2026-08-19
+T-00834,medium,"Customer called,
+asked for refund",2026-09-06
+T-00835,high,"Customer called,
+asked for refund",2026-08-25
+T-00836,high,"Follow-up
+scheduled, no answer",2026-02-25
+T-00837,low,"Said ""it broke
+after update"", escalated",2026-01-15
+T-00838,low,"Follow-up
+scheduled, no answer",2026-01-21
+T-00839,low,"Said ""it broke
+after update"", escalated",2026-02-24
+T-00840,high,"Said ""it broke
+after update"", escalated",2026-09-09
+T-00841,urgent,"Follow-up
+scheduled, no answer",2026-06-17
+T-00842,low,Simple password reset,2026-05-08
+T-00843,high,"Follow-up
+scheduled, no answer",2026-09-27
+T-00844,medium,"Follow-up
+scheduled, no answer",2026-05-10
+T-00845,high,"Follow-up
+scheduled, no answer",2026-08-13
+T-00846,low,"Customer called,
+asked for refund",2026-01-21
+T-00847,low,"Said ""it broke
+after update"", escalated",2026-09-17
+T-00848,high,"Customer called,
+asked for refund",2026-02-18
+T-00849,urgent,Simple password reset,2026-08-09
+T-00850,high,"Said ""it broke
+after update"", escalated",2026-08-08
+T-00851,urgent,Simple password reset,2026-06-14
+T-00852,urgent,"Customer called,
+asked for refund",2026-05-05
+T-00853,urgent,Simple password reset,2026-03-01
+T-00854,urgent,Simple password reset,2026-09-18
+T-00855,medium,Simple password reset,2026-02-15
+T-00856,medium,Simple password reset,2026-03-24
+T-00857,medium,"Follow-up
+scheduled, no answer",2026-04-11
+T-00858,medium,"Customer called,
+asked for refund",2026-06-11
+T-00859,high,Simple password reset,2026-02-08
+T-00860,medium,"Follow-up
+scheduled, no answer",2026-05-15
+T-00861,high,"Follow-up
+scheduled, no answer",2026-02-26
+T-00862,urgent,"Customer called,
+asked for refund",2026-01-23
+T-00863,urgent,Simple password reset,2026-09-11
+T-00864,medium,"Said ""it broke
+after update"", escalated",2026-08-16
+T-00865,urgent,"Follow-up
+scheduled, no answer",2026-06-13
+T-00866,medium,Simple password reset,2026-03-09
+T-00867,high,"Customer called,
+asked for refund",2026-03-12
+T-00868,medium,Simple password reset,2026-01-07
+T-00869,low,"Said ""it broke
+after update"", escalated",2026-01-07
+T-00870,medium,"Said ""it broke
+after update"", escalated",2026-09-21
+T-00871,urgent,"Customer called,
+asked for refund",2026-01-23
+T-00872,medium,"Said ""it broke
+after update"", escalated",2026-06-05
+T-00873,low,"Follow-up
+scheduled, no answer",2026-02-05
+T-00874,urgent,"Said ""it broke
+after update"", escalated",2026-01-04
+T-00875,medium,"Said ""it broke
+after update"", escalated",2026-05-27
+T-00876,high,"Follow-up
+scheduled, no answer",2026-08-11
+T-00877,urgent,"Said ""it broke
+after update"", escalated",2026-07-11
+T-00878,high,"Said ""it broke
+after update"", escalated",2026-05-21
+T-00879,medium,"Customer called,
+asked for refund",2026-08-05
+T-00880,medium,"Customer called,
+asked for refund",2026-03-08
+T-00881,medium,"Said ""it broke
+after update"", escalated",2026-05-13
+T-00882,medium,"Said ""it broke
+after update"", escalated",2026-01-26
+T-00883,low,"Customer called,
+asked for refund",2026-05-21
+T-00884,urgent,"Said ""it broke
+after update"", escalated",2026-05-27
+T-00885,low,"Said ""it broke
+after update"", escalated",2026-05-14
+T-00886,urgent,"Customer called,
+asked for refund",2026-06-10
+T-00887,medium,"Follow-up
+scheduled, no answer",2026-06-10
+T-00888,low,"Follow-up
+scheduled, no answer",2026-04-20
+T-00889,high,"Follow-up
+scheduled, no answer",2026-05-27
+T-00890,medium,"Follow-up
+scheduled, no answer",2026-06-21
+T-00891,high,"Said ""it broke
+after update"", escalated",2026-01-09
+T-00892,medium,"Said ""it broke
+after update"", escalated",2026-01-13
+T-00893,medium,"Said ""it broke
+after update"", escalated",2026-09-06
+T-00894,medium,"Said ""it broke
+after update"", escalated",2026-02-26
+T-00895,high,"Said ""it broke
+after update"", escalated",2026-02-08
+T-00896,low,"Follow-up
+scheduled, no answer",2026-06-10
+T-00897,urgent,"Said ""it broke
+after update"", escalated",2026-06-02
+T-00898,low,Simple password reset,2026-07-28
+T-00899,high,"Said ""it broke
+after update"", escalated",2026-04-25
+T-00900,urgent,"Said ""it broke
+after update"", escalated",2026-04-07
+T-00901,low,Simple password reset,2026-04-13
+T-00902,medium,"Customer called,
+asked for refund",2026-09-24
+T-00903,high,"Said ""it broke
+after update"", escalated",2026-02-11
+T-00904,medium,Simple password reset,2026-08-04
+T-00905,medium,"Customer called,
+asked for refund",2026-09-09
+T-00906,medium,"Customer called,
+asked for refund",2026-07-25
+T-00907,urgent,"Customer called,
+asked for refund",2026-05-27
+T-00908,high,Simple password reset,2026-08-15
+T-00909,low,Simple password reset,2026-07-13
+T-00910,medium,"Follow-up
+scheduled, no answer",2026-02-22
+T-00911,urgent,"Said ""it broke
+after update"", escalated",2026-01-24
+T-00912,medium,"Follow-up
+scheduled, no answer",2026-07-17
+T-00913,medium,Simple password reset,2026-07-06
+T-00914,low,"Said ""it broke
+after update"", escalated",2026-05-17
+T-00915,urgent,"Customer called,
+asked for refund",2026-06-25
+T-00916,medium,"Follow-up
+scheduled, no answer",2026-05-01
+T-00917,low,"Customer called,
+asked for refund",2026-09-04
+T-00918,low,"Said ""it broke
+after update"", escalated",2026-09-12
+T-00919,medium,"Customer called,
+asked for refund",2026-06-27
+T-00920,low,"Customer called,
+asked for refund",2026-08-16
+T-00921,low,"Said ""it broke
+after update"", escalated",2026-01-11
+T-00922,low,"Customer called,
+asked for refund",2026-08-01
+T-00923,high,"Said ""it broke
+after update"", escalated",2026-05-23
+T-00924,low,"Follow-up
+scheduled, no answer",2026-01-28
+T-00925,medium,"Follow-up
+scheduled, no answer",2026-03-24
+T-00926,low,"Customer called,
+asked for refund",2026-04-16
+T-00927,high,Simple password reset,2026-06-17
+T-00928,urgent,"Follow-up
+scheduled, no answer",2026-08-19
+T-00929,urgent,"Customer called,
+asked for refund",2026-02-17
+T-00930,high,Simple password reset,2026-06-02
+T-00931,medium,"Said ""it broke
+after update"", escalated",2026-07-01
+T-00932,urgent,"Follow-up
+scheduled, no answer",2026-06-12
+T-00933,urgent,"Said ""it broke
+after update"", escalated",2026-03-22
+T-00934,low,"Customer called,
+asked for refund",2026-04-04
+T-00935,high,"Said ""it broke
+after update"", escalated",2026-01-15
+T-00936,medium,Simple password reset,2026-08-01
+T-00937,low,Simple password reset,2026-09-12
+T-00938,urgent,Simple password reset,2026-06-15
+T-00939,high,Simple password reset,2026-02-23
+T-00940,high,"Customer called,
+asked for refund",2026-05-09
+T-00941,medium,"Follow-up
+scheduled, no answer",2026-09-28
+T-00942,urgent,"Said ""it broke
+after update"", escalated",2026-08-23
+T-00943,medium,Simple password reset,2026-09-02
+T-00944,medium,"Follow-up
+scheduled, no answer",2026-05-24
+T-00945,high,"Follow-up
+scheduled, no answer",2026-01-09
+T-00946,high,"Said ""it broke
+after update"", escalated",2026-05-26
+T-00947,medium,Simple password reset,2026-04-09
+T-00948,high,"Said ""it broke
+after update"", escalated",2026-02-12
+T-00949,medium,"Said ""it broke
+after update"", escalated",2026-09-07
+T-00950,high,"Customer called,
+asked for refund",2026-03-10
+T-00951,urgent,"Customer called,
+asked for refund",2026-06-28
+T-00952,high,"Customer called,
+asked for refund",2026-08-02
+T-00953,medium,"Follow-up
+scheduled, no answer",2026-02-25
+T-00954,high,Simple password reset,2026-06-27
+T-00955,low,Simple password reset,2026-02-13
+T-00956,low,"Follow-up
+scheduled, no answer",2026-03-27
+T-00957,low,"Customer called,
+asked for refund",2026-02-09
+T-00958,urgent,"Customer called,
+asked for refund",2026-04-03
+T-00959,low,Simple password reset,2026-06-05
+T-00960,urgent,Simple password reset,2026-02-27
+T-00961,urgent,"Said ""it broke
+after update"", escalated",2026-09-23
+T-00962,urgent,"Said ""it broke
+after update"", escalated",2026-04-03
+T-00963,medium,Simple password reset,2026-02-06
+T-00964,urgent,"Customer called,
+asked for refund",2026-05-21
+T-00965,urgent,Simple password reset,2026-01-16
+T-00966,low,"Customer called,
+asked for refund",2026-05-14
+T-00967,low,Simple password reset,2026-09-16
+T-00968,urgent,"Said ""it broke
+after update"", escalated",2026-05-19
+T-00969,medium,Simple password reset,2026-04-17
+T-00970,high,"Customer called,
+asked for refund",2026-07-27
+T-00971,low,"Follow-up
+scheduled, no answer",2026-08-23
+T-00972,urgent,"Customer called,
+asked for refund",2026-01-19
+T-00973,urgent,"Follow-up
+scheduled, no answer",2026-05-19
+T-00974,high,"Follow-up
+scheduled, no answer",2026-04-19
+T-00975,urgent,"Customer called,
+asked for refund",2026-06-04
+T-00976,urgent,"Follow-up
+scheduled, no answer",2026-04-14
+T-00977,medium,"Said ""it broke
+after update"", escalated",2026-07-14
+T-00978,low,Simple password reset,2026-03-26
+T-00979,high,"Said ""it broke
+after update"", escalated",2026-07-10
+T-00980,low,Simple password reset,2026-02-15
+T-00981,high,"Said ""it broke
+after update"", escalated",2026-04-15
+T-00982,medium,"Follow-up
+scheduled, no answer",2026-08-28
+T-00983,medium,"Customer called,
+asked for refund",2026-08-07
+T-00984,urgent,Simple password reset,2026-09-15
+T-00985,high,"Said ""it broke
+after update"", escalated",2026-08-16
+T-00986,medium,Simple password reset,2026-06-05
+T-00987,urgent,"Said ""it broke
+after update"", escalated",2026-06-12
+T-00988,urgent,Simple password reset,2026-09-16
+T-00989,medium,"Customer called,
+asked for refund",2026-05-11
+T-00990,urgent,Simple password reset,2026-01-09
+T-00991,urgent,"Follow-up
+scheduled, no answer",2026-03-10
+T-00992,medium,Simple password reset,2026-08-18
+T-00993,high,Simple password reset,2026-05-02
+T-00994,low,"Said ""it broke
+after update"", escalated",2026-03-06
+T-00995,low,"Said ""it broke
+after update"", escalated",2026-08-06
+T-00996,low,"Customer called,
+asked for refund",2026-08-18
+T-00997,urgent,"Said ""it broke
+after update"", escalated",2026-09-23
+T-00998,high,"Said ""it broke
+after update"", escalated",2026-07-14
+T-00999,high,"Follow-up
+scheduled, no answer",2026-03-19
+T-01000,low,Simple password reset,2026-02-09
+T-01001,urgent,"Follow-up
+scheduled, no answer",2026-06-16
+T-01002,low,"Said ""it broke
+after update"", escalated",2026-01-11
+T-01003,low,"Follow-up
+scheduled, no answer",2026-08-13
+T-01004,high,Simple password reset,2026-01-18
+T-01005,high,"Customer called,
+asked for refund",2026-03-26
+T-01006,high,"Customer called,
+asked for refund",2026-04-14
+T-01007,medium,"Customer called,
+asked for refund",2026-02-03
+T-01008,high,"Customer called,
+asked for refund",2026-03-02
+T-01009,low,"Customer called,
+asked for refund",2026-04-05
+T-01010,high,"Follow-up
+scheduled, no answer",2026-01-18
+T-01011,high,Simple password reset,2026-09-24
+T-01012,medium,Simple password reset,2026-05-12
+T-01013,low,"Customer called,
+asked for refund",2026-08-20
+T-01014,urgent,"Said ""it broke
+after update"", escalated",2026-02-23
+T-01015,low,"Customer called,
+asked for refund",2026-09-15
+T-01016,medium,Simple password reset,2026-07-28
+T-01017,low,"Said ""it broke
+after update"", escalated",2026-08-20
+T-01018,low,"Follow-up
+scheduled, no answer",2026-08-19
+T-01019,high,"Said ""it broke
+after update"", escalated",2026-06-14
+T-01020,high,"Follow-up
+scheduled, no answer",2026-01-04
+T-01021,low,"Customer called,
+asked for refund",2026-01-16
+T-01022,high,Simple password reset,2026-05-09
+T-01023,medium,"Follow-up
+scheduled, no answer",2026-06-24
+T-01024,high,"Follow-up
+scheduled, no answer",2026-02-21
+T-01025,medium,"Customer called,
+asked for refund",2026-01-23
+T-01026,high,"Said ""it broke
+after update"", escalated",2026-04-13
+T-01027,medium,"Follow-up
+scheduled, no answer",2026-08-14
+T-01028,low,"Customer called,
+asked for refund",2026-02-08
+T-01029,medium,Simple password reset,2026-06-12
+T-01030,low,"Customer called,
+asked for refund",2026-06-24
+T-01031,medium,"Said ""it broke
+after update"", escalated",2026-06-22
+T-01032,high,"Said ""it broke
+after update"", escalated",2026-09-17
+T-01033,urgent,"Said ""it broke
+after update"", escalated",2026-08-13
+T-01034,medium,"Said ""it broke
+after update"", escalated",2026-05-07
+T-01035,medium,"Said ""it broke
+after update"", escalated",2026-02-15
+T-01036,urgent,"Customer called,
+asked for refund",2026-06-15
+T-01037,low,"Said ""it broke
+after update"", escalated",2026-08-08
+T-01038,urgent,Simple password reset,2026-04-12
+T-01039,low,"Said ""it broke
+after update"", escalated",2026-01-21
+T-01040,medium,Simple password reset,2026-02-18
+T-01041,high,"Said ""it broke
+after update"", escalated",2026-04-05
+T-01042,low,"Follow-up
+scheduled, no answer",2026-06-05
+T-01043,high,Simple password reset,2026-01-19
+T-01044,medium,"Customer called,
+asked for refund",2026-04-09
+T-01045,medium,"Customer called,
+asked for refund",2026-05-28
+T-01046,urgent,"Follow-up
+scheduled, no answer",2026-02-22
+T-01047,high,"Customer called,
+asked for refund",2026-04-22
+T-01048,high,Simple password reset,2026-07-13
+T-01049,urgent,"Customer called,
+asked for refund",2026-05-06
+T-01050,high,"Customer called,
+asked for refund",2026-08-09
+T-01051,high,"Follow-up
+scheduled, no answer",2026-01-08
+T-01052,high,"Follow-up
+scheduled, no answer",2026-07-15
+T-01053,urgent,"Follow-up
+scheduled, no answer",2026-01-04
+T-01054,urgent,"Follow-up
+scheduled, no answer",2026-01-16
+T-01055,high,Simple password reset,2026-02-11
+T-01056,urgent,"Customer called,
+asked for refund",2026-04-21
+T-01057,high,"Customer called,
+asked for refund",2026-07-17
+T-01058,high,"Said ""it broke
+after update"", escalated",2026-02-26
+T-01059,urgent,"Customer called,
+asked for refund",2026-03-03
+T-01060,medium,"Said ""it broke
+after update"", escalated",2026-05-23
+T-01061,urgent,"Follow-up
+scheduled, no answer",2026-01-24
+T-01062,medium,"Said ""it broke
+after update"", escalated",2026-04-14
+T-01063,medium,"Follow-up
+scheduled, no answer",2026-05-18
+T-01064,low,"Said ""it broke
+after update"", escalated",2026-03-21
+T-01065,high,"Customer called,
+asked for refund",2026-03-11
+T-01066,low,"Follow-up
+scheduled, no answer",2026-06-10
+T-01067,medium,Simple password reset,2026-04-07
+T-01068,medium,Simple password reset,2026-02-06
+T-01069,urgent,"Said ""it broke
+after update"", escalated",2026-08-05
+T-01070,high,"Customer called,
+asked for refund",2026-06-12
+T-01071,urgent,"Customer called,
+asked for refund",2026-06-24
+T-01072,medium,"Customer called,
+asked for refund",2026-09-13
+T-01073,urgent,"Follow-up
+scheduled, no answer",2026-02-11
+T-01074,urgent,"Said ""it broke
+after update"", escalated",2026-07-01
+T-01075,high,"Said ""it broke
+after update"", escalated",2026-06-08
+T-01076,urgent,"Said ""it broke
+after update"", escalated",2026-09-01
+T-01077,high,"Said ""it broke
+after update"", escalated",2026-02-02
+T-01078,high,Simple password reset,2026-05-25
+T-01079,medium,"Said ""it broke
+after update"", escalated",2026-01-22
+T-01080,high,Simple password reset,2026-04-25
+T-01081,low,"Follow-up
+scheduled, no answer",2026-02-20
+T-01082,urgent,"Customer called,
+asked for refund",2026-04-07
+T-01083,low,"Customer called,
+asked for refund",2026-03-15
+T-01084,urgent,"Customer called,
+asked for refund",2026-06-04
+T-01085,urgent,"Said ""it broke
+after update"", escalated",2026-05-28
+T-01086,medium,"Said ""it broke
+after update"", escalated",2026-05-18
+T-01087,low,Simple password reset,2026-02-16
+T-01088,urgent,Simple password reset,2026-05-04
+T-01089,high,Simple password reset,2026-06-14
+T-01090,high,Simple password reset,2026-02-23
+T-01091,medium,"Customer called,
+asked for refund",2026-05-04
+T-01092,medium,"Said ""it broke
+after update"", escalated",2026-04-11
+T-01093,low,"Said ""it broke
+after update"", escalated",2026-08-24
+T-01094,medium,Simple password reset,2026-03-11
+T-01095,low,"Follow-up
+scheduled, no answer",2026-08-20
+T-01096,medium,"Said ""it broke
+after update"", escalated",2026-02-14
+T-01097,urgent,"Said ""it broke
+after update"", escalated",2026-06-02
+T-01098,high,"Said ""it broke
+after update"", escalated",2026-01-21
+T-01099,high,"Said ""it broke
+after update"", escalated",2026-02-12
+T-01100,low,Simple password reset,2026-02-18
+T-01101,high,"Said ""it broke
+after update"", escalated",2026-04-05
+T-01102,low,"Said ""it broke
+after update"", escalated",2026-09-26
+T-01103,high,Simple password reset,2026-04-08
+T-01104,urgent,"Follow-up
+scheduled, no answer",2026-09-12
+T-01105,urgent,Simple password reset,2026-01-05
+T-01106,low,"Said ""it broke
+after update"", escalated",2026-05-08
+T-01107,low,"Customer called,
+asked for refund",2026-02-12
+T-01108,urgent,"Follow-up
+scheduled, no answer",2026-01-18
+T-01109,urgent,"Said ""it broke
+after update"", escalated",2026-06-03
+T-01110,medium,"Customer called,
+asked for refund",2026-07-04
+T-01111,low,"Said ""it broke
+after update"", escalated",2026-08-10
+T-01112,urgent,"Follow-up
+scheduled, no answer",2026-08-14
+T-01113,low,"Said ""it broke
+after update"", escalated",2026-09-10
+T-01114,medium,Simple password reset,2026-03-27
+T-01115,medium,"Said ""it broke
+after update"", escalated",2026-07-02
+T-01116,urgent,"Follow-up
+scheduled, no answer",2026-06-12
+T-01117,high,Simple password reset,2026-06-20
+T-01118,medium,"Customer called,
+asked for refund",2026-08-23
+T-01119,low,"Said ""it broke
+after update"", escalated",2026-03-20
+T-01120,low,Simple password reset,2026-09-21
+T-01121,low,"Customer called,
+asked for refund",2026-01-17
+T-01122,low,Simple password reset,2026-06-23
+T-01123,urgent,Simple password reset,2026-06-27
+T-01124,low,"Customer called,
+asked for refund",2026-09-21
+T-01125,high,"Said ""it broke
+after update"", escalated",2026-04-07
+T-01126,high,"Customer called,
+asked for refund",2026-03-16
+T-01127,high,"Said ""it broke
+after update"", escalated",2026-01-02
+T-01128,urgent,"Customer called,
+asked for refund",2026-05-20
+T-01129,medium,"Customer called,
+asked for refund",2026-08-16
+T-01130,medium,"Customer called,
+asked for refund",2026-08-02
+T-01131,high,Simple password reset,2026-07-27
+T-01132,urgent,"Said ""it broke
+after update"", escalated",2026-02-28
+T-01133,medium,"Said ""it broke
+after update"", escalated",2026-08-02
+T-01134,medium,"Customer called,
+asked for refund",2026-06-27
+T-01135,low,"Customer called,
+asked for refund",2026-04-27
+T-01136,high,"Follow-up
+scheduled, no answer",2026-05-18
+T-01137,urgent,"Customer called,
+asked for refund",2026-09-15
+T-01138,medium,Simple password reset,2026-06-25
+T-01139,high,Simple password reset,2026-07-17
+T-01140,high,"Customer called,
+asked for refund",2026-07-10
+T-01141,high,Simple password reset,2026-07-15
+T-01142,medium,"Said ""it broke
+after update"", escalated",2026-08-19
+T-01143,urgent,Simple password reset,2026-09-24
+T-01144,high,"Said ""it broke
+after update"", escalated",2026-03-01
+T-01145,urgent,"Said ""it broke
+after update"", escalated",2026-07-14
+T-01146,urgent,Simple password reset,2026-06-27
+T-01147,high,"Said ""it broke
+after update"", escalated",2026-01-08
+T-01148,low,Simple password reset,2026-06-13
+T-01149,medium,"Said ""it broke
+after update"", escalated",2026-05-11
+T-01150,high,Simple password reset,2026-01-19
+T-01151,high,"Follow-up
+scheduled, no answer",2026-04-15
+T-01152,medium,"Follow-up
+scheduled, no answer",2026-05-24
+T-01153,urgent,"Said ""it broke
+after update"", escalated",2026-07-03
+T-01154,high,Simple password reset,2026-03-24
+T-01155,medium,"Customer called,
+asked for refund",2026-06-26
+T-01156,urgent,Simple password reset,2026-03-17
+T-01157,medium,Simple password reset,2026-06-24
+T-01158,low,"Said ""it broke
+after update"", escalated",2026-01-27
+T-01159,high,"Said ""it broke
+after update"", escalated",2026-01-14
+T-01160,low,"Follow-up
+scheduled, no answer",2026-08-12
+T-01161,urgent,Simple password reset,2026-09-28
+T-01162,high,"Customer called,
+asked for refund",2026-01-22
+T-01163,high,"Customer called,
+asked for refund",2026-03-28
+T-01164,medium,"Customer called,
+asked for refund",2026-01-01
+T-01165,low,"Customer called,
+asked for refund",2026-08-18
+T-01166,urgent,"Said ""it broke
+after update"", escalated",2026-01-02
+T-01167,medium,"Said ""it broke
+after update"", escalated",2026-05-07
+T-01168,medium,"Said ""it broke
+after update"", escalated",2026-08-02
+T-01169,urgent,"Said ""it broke
+after update"", escalated",2026-02-16
+T-01170,medium,"Customer called,
+asked for refund",2026-06-13
+T-01171,urgent,"Said ""it broke
+after update"", escalated",2026-08-13
+T-01172,urgent,"Said ""it broke
+after update"", escalated",2026-09-21
+T-01173,urgent,"Customer called,
+asked for refund",2026-06-20
+T-01174,urgent,"Follow-up
+scheduled, no answer",2026-06-03
+T-01175,medium,"Said ""it broke
+after update"", escalated",2026-06-28
+T-01176,low,Simple password reset,2026-02-04
+T-01177,medium,"Said ""it broke
+after update"", escalated",2026-05-22
+T-01178,high,"Customer called,
+asked for refund",2026-01-13
+T-01179,low,"Said ""it broke
+after update"", escalated",2026-05-12
+T-01180,medium,"Follow-up
+scheduled, no answer",2026-05-12
+T-01181,high,Simple password reset,2026-06-03
+T-01182,high,Simple password reset,2026-08-11
+T-01183,urgent,Simple password reset,2026-08-10
+T-01184,high,"Follow-up
+scheduled, no answer",2026-03-09
+T-01185,low,"Said ""it broke
+after update"", escalated",2026-04-20
+T-01186,urgent,"Follow-up
+scheduled, no answer",2026-03-10
+T-01187,urgent,Simple password reset,2026-08-02
+T-01188,medium,Simple password reset,2026-04-26
+T-01189,low,Simple password reset,2026-04-01
+T-01190,medium,Simple password reset,2026-09-26
+T-01191,high,"Customer called,
+asked for refund",2026-09-18
+T-01192,medium,"Customer called,
+asked for refund",2026-04-11
+T-01193,high,"Follow-up
+scheduled, no answer",2026-09-28
+T-01194,urgent,"Customer called,
+asked for refund",2026-04-24
+T-01195,medium,"Said ""it broke
+after update"", escalated",2026-07-20
+T-01196,low,"Said ""it broke
+after update"", escalated",2026-03-17
+T-01197,medium,"Said ""it broke
+after update"", escalated",2026-09-11
+T-01198,high,"Follow-up
+scheduled, no answer",2026-04-17
+T-01199,urgent,"Follow-up
+scheduled, no answer",2026-09-04
+T-01200,low,Simple password reset,2026-08-09
+T-01201,high,"Said ""it broke
+after update"", escalated",2026-07-04
+T-01202,urgent,"Said ""it broke
+after update"", escalated",2026-04-21
+T-01203,low,Simple password reset,2026-08-05
+T-01204,low,"Said ""it broke
+after update"", escalated",2026-01-22
+T-01205,urgent,"Said ""it broke
+after update"", escalated",2026-03-27
+T-01206,low,"Follow-up
+scheduled, no answer",2026-01-27
+T-01207,urgent,"Said ""it broke
+after update"", escalated",2026-09-15
+T-01208,high,"Said ""it broke
+after update"", escalated",2026-04-09
+T-01209,low,"Said ""it broke
+after update"", escalated",2026-06-26
+T-01210,medium,"Customer called,
+asked for refund",2026-01-11
+T-01211,urgent,"Follow-up
+scheduled, no answer",2026-04-23
+T-01212,urgent,"Said ""it broke
+after update"", escalated",2026-06-27
+T-01213,high,"Follow-up
+scheduled, no answer",2026-07-11
+T-01214,urgent,"Said ""it broke
+after update"", escalated",2026-05-26
+T-01215,urgent,"Follow-up
+scheduled, no answer",2026-09-04
+T-01216,low,"Follow-up
+scheduled, no answer",2026-03-01
+T-01217,high,"Customer called,
+asked for refund",2026-04-09
+T-01218,low,"Customer called,
+asked for refund",2026-01-14
+T-01219,urgent,"Said ""it broke
+after update"", escalated",2026-03-08
+T-01220,high,"Follow-up
+scheduled, no answer",2026-03-16
+T-01221,medium,"Customer called,
+asked for refund",2026-03-08
+T-01222,medium,"Said ""it broke
+after update"", escalated",2026-04-25
+T-01223,medium,"Said ""it broke
+after update"", escalated",2026-09-19
+T-01224,medium,"Customer called,
+asked for refund",2026-03-16
+T-01225,low,"Follow-up
+scheduled, no answer",2026-01-28
+T-01226,high,"Customer called,
+asked for refund",2026-03-21
+T-01227,urgent,Simple password reset,2026-02-22
+T-01228,high,Simple password reset,2026-05-17
+T-01229,low,"Follow-up
+scheduled, no answer",2026-04-21
+T-01230,low,"Said ""it broke
+after update"", escalated",2026-04-24
+T-01231,high,"Said ""it broke
+after update"", escalated",2026-06-03
+T-01232,low,"Customer called,
+asked for refund",2026-06-25
+T-01233,medium,Simple password reset,2026-06-11
+T-01234,medium,"Said ""it broke
+after update"", escalated",2026-04-26
+T-01235,low,Simple password reset,2026-01-18
+T-01236,low,Simple password reset,2026-04-03
+T-01237,medium,Simple password reset,2026-01-16
+T-01238,low,"Said ""it broke
+after update"", escalated",2026-06-18
+T-01239,low,"Said ""it broke
+after update"", escalated",2026-04-05
+T-01240,urgent,Simple password reset,2026-05-21
+T-01241,low,"Follow-up
+scheduled, no answer",2026-09-25
+T-01242,medium,"Follow-up
+scheduled, no answer",2026-05-24
+T-01243,urgent,"Customer called,
+asked for refund",2026-01-14
+T-01244,medium,"Customer called,
+asked for refund",2026-06-23
+T-01245,urgent,"Customer called,
+asked for refund",2026-09-06
+T-01246,medium,Simple password reset,2026-08-24
+T-01247,low,"Said ""it broke
+after update"", escalated",2026-03-02
+T-01248,medium,"Follow-up
+scheduled, no answer",2026-01-11
+T-01249,medium,"Follow-up
+scheduled, no answer",2026-08-11
+T-01250,low,"Customer called,
+asked for refund",2026-05-22
+T-01251,medium,Simple password reset,2026-09-10
+T-01252,low,"Follow-up
+scheduled, no answer",2026-02-09
+T-01253,medium,"Customer called,
+asked for refund",2026-03-14
+T-01254,low,Simple password reset,2026-01-19
+T-01255,low,"Said ""it broke
+after update"", escalated",2026-05-04
+T-01256,high,"Follow-up
+scheduled, no answer",2026-05-26
+T-01257,low,"Said ""it broke
+after update"", escalated",2026-09-24
+T-01258,urgent,Simple password reset,2026-04-25
+T-01259,low,"Customer called,
+asked for refund",2026-08-12
+T-01260,medium,"Customer called,
+asked for refund",2026-02-13
+T-01261,medium,"Customer called,
+asked for refund",2026-01-28
+T-01262,high,"Said ""it broke
+after update"", escalated",2026-03-12
+T-01263,low,Simple password reset,2026-07-25
+T-01264,low,"Follow-up
+scheduled, no answer",2026-09-28
+T-01265,urgent,"Follow-up
+scheduled, no answer",2026-06-18
+T-01266,high,Simple password reset,2026-04-03
+T-01267,urgent,"Said ""it broke
+after update"", escalated",2026-03-01
+T-01268,urgent,Simple password reset,2026-07-03
+T-01269,high,"Said ""it broke
+after update"", escalated",2026-02-11
+T-01270,urgent,"Follow-up
+scheduled, no answer",2026-07-16
+T-01271,urgent,Simple password reset,2026-07-17
+T-01272,medium,Simple password reset,2026-04-19
+T-01273,high,"Customer called,
+asked for refund",2026-06-02
+T-01274,high,"Customer called,
+asked for refund",2026-06-17
+T-01275,high,Simple password reset,2026-03-11
+T-01276,medium,Simple password reset,2026-09-24
+T-01277,urgent,"Follow-up
+scheduled, no answer",2026-08-28
+T-01278,medium,"Follow-up
+scheduled, no answer",2026-06-03
+T-01279,medium,"Customer called,
+asked for refund",2026-08-11
+T-01280,medium,Simple password reset,2026-09-16
+T-01281,urgent,"Follow-up
+scheduled, no answer",2026-07-08
+T-01282,medium,"Follow-up
+scheduled, no answer",2026-07-12
+T-01283,urgent,"Follow-up
+scheduled, no answer",2026-02-09
+T-01284,high,"Said ""it broke
+after update"", escalated",2026-07-06
+T-01285,medium,"Said ""it broke
+after update"", escalated",2026-02-08
+T-01286,high,Simple password reset,2026-03-10
+T-01287,urgent,"Follow-up
+scheduled, no answer",2026-05-17
+T-01288,urgent,"Said ""it broke
+after update"", escalated",2026-07-20
+T-01289,medium,"Follow-up
+scheduled, no answer",2026-04-25
+T-01290,high,Simple password reset,2026-08-08
+T-01291,urgent,"Customer called,
+asked for refund",2026-02-19
+T-01292,urgent,"Follow-up
+scheduled, no answer",2026-04-04
+T-01293,urgent,Simple password reset,2026-07-23
+T-01294,urgent,Simple password reset,2026-09-12
+T-01295,urgent,"Customer called,
+asked for refund",2026-04-18
+T-01296,urgent,"Follow-up
+scheduled, no answer",2026-09-28
+T-01297,urgent,"Customer called,
+asked for refund",2026-03-12
+T-01298,medium,"Follow-up
+scheduled, no answer",2026-03-04
+T-01299,low,Simple password reset,2026-07-26
+T-01300,low,Simple password reset,2026-04-05
+T-01301,low,"Customer called,
+asked for refund",2026-06-21
+T-01302,medium,"Follow-up
+scheduled, no answer",2026-07-08
+T-01303,urgent,Simple password reset,2026-08-01
+T-01304,low,"Customer called,
+asked for refund",2026-06-26
+T-01305,medium,"Said ""it broke
+after update"", escalated",2026-03-09
+T-01306,low,"Customer called,
+asked for refund",2026-09-19
+T-01307,high,Simple password reset,2026-06-15
+T-01308,urgent,"Said ""it broke
+after update"", escalated",2026-08-28
+T-01309,urgent,"Follow-up
+scheduled, no answer",2026-09-11
+T-01310,medium,"Customer called,
+asked for refund",2026-01-25
+T-01311,low,Simple password reset,2026-03-27
+T-01312,medium,"Follow-up
+scheduled, no answer",2026-07-11
+T-01313,medium,Simple password reset,2026-06-23
+T-01314,low,Simple password reset,2026-01-11
+T-01315,low,Simple password reset,2026-03-13
+T-01316,high,"Customer called,
+asked for refund",2026-01-13
+T-01317,urgent,Simple password reset,2026-02-12
+T-01318,medium,"Customer called,
+asked for refund",2026-04-08
+T-01319,high,Simple password reset,2026-02-28
+T-01320,high,Simple password reset,2026-07-20
+T-01321,low,"Customer called,
+asked for refund",2026-05-27
+T-01322,low,"Follow-up
+scheduled, no answer",2026-08-15
+T-01323,low,"Said ""it broke
+after update"", escalated",2026-03-16
+T-01324,high,Simple password reset,2026-06-28
+T-01325,medium,"Follow-up
+scheduled, no answer",2026-01-23
+T-01326,low,Simple password reset,2026-09-15
+T-01327,urgent,Simple password reset,2026-02-04
+T-01328,medium,"Said ""it broke
+after update"", escalated",2026-09-28
+T-01329,medium,Simple password reset,2026-07-18
+T-01330,low,"Follow-up
+scheduled, no answer",2026-04-08
+T-01331,urgent,"Customer called,
+asked for refund",2026-08-21
+T-01332,medium,"Said ""it broke
+after update"", escalated",2026-07-03
+T-01333,urgent,"Follow-up
+scheduled, no answer",2026-04-03
+T-01334,urgent,"Customer called,
+asked for refund",2026-07-22
+T-01335,urgent,Simple password reset,2026-04-05
+T-01336,low,"Customer called,
+asked for refund",2026-03-14
+T-01337,high,"Said ""it broke
+after update"", escalated",2026-07-06
+T-01338,medium,"Said ""it broke
+after update"", escalated",2026-06-07
+T-01339,low,Simple password reset,2026-02-07
+T-01340,medium,Simple password reset,2026-05-16
+T-01341,low,"Said ""it broke
+after update"", escalated",2026-09-16
+T-01342,urgent,Simple password reset,2026-01-03
+T-01343,high,"Follow-up
+scheduled, no answer",2026-04-03
+T-01344,urgent,"Said ""it broke
+after update"", escalated",2026-02-10
+T-01345,urgent,"Customer called,
+asked for refund",2026-03-02
+T-01346,urgent,Simple password reset,2026-03-21
+T-01347,urgent,Simple password reset,2026-01-27
+T-01348,urgent,"Said ""it broke
+after update"", escalated",2026-05-13
+T-01349,high,Simple password reset,2026-08-23
+T-01350,high,"Customer called,
+asked for refund",2026-07-05
+T-01351,urgent,Simple password reset,2026-06-03
+T-01352,medium,"Customer called,
+asked for refund",2026-07-13
+T-01353,medium,"Follow-up
+scheduled, no answer",2026-08-22
+T-01354,high,Simple password reset,2026-03-16
+T-01355,medium,"Said ""it broke
+after update"", escalated",2026-05-24
+T-01356,high,"Said ""it broke
+after update"", escalated",2026-02-06
+T-01357,low,"Follow-up
+scheduled, no answer",2026-04-14
+T-01358,medium,"Follow-up
+scheduled, no answer",2026-07-16
+T-01359,medium,"Customer called,
+asked for refund",2026-05-10
+T-01360,high,"Follow-up
+scheduled, no answer",2026-01-04
+T-01361,medium,"Customer called,
+asked for refund",2026-04-17
+T-01362,low,"Said ""it broke
+after update"", escalated",2026-05-28
+T-01363,medium,Simple password reset,2026-05-14
+T-01364,high,Simple password reset,2026-01-14
+T-01365,urgent,Simple password reset,2026-04-21
+T-01366,low,"Follow-up
+scheduled, no answer",2026-06-23
+T-01367,medium,"Follow-up
+scheduled, no answer",2026-07-28
+T-01368,high,Simple password reset,2026-06-05
+T-01369,high,Simple password reset,2026-09-09
+T-01370,high,"Said ""it broke
+after update"", escalated",2026-06-05
+T-01371,low,Simple password reset,2026-04-16
+T-01372,high,"Said ""it broke
+after update"", escalated",2026-04-14
+T-01373,medium,Simple password reset,2026-04-09
+T-01374,high,"Follow-up
+scheduled, no answer",2026-01-17
+T-01375,medium,"Customer called,
+asked for refund",2026-03-24
+T-01376,high,"Said ""it broke
+after update"", escalated",2026-08-14
+T-01377,medium,"Customer called,
+asked for refund",2026-01-01
+T-01378,urgent,"Said ""it broke
+after update"", escalated",2026-02-06
+T-01379,medium,"Customer called,
+asked for refund",2026-07-05
+T-01380,low,"Customer called,
+asked for refund",2026-03-27
+T-01381,high,Simple password reset,2026-05-17
+T-01382,high,"Said ""it broke
+after update"", escalated",2026-04-24
+T-01383,medium,Simple password reset,2026-01-10
+T-01384,medium,Simple password reset,2026-04-09
+T-01385,low,Simple password reset,2026-03-19
+T-01386,high,"Customer called,
+asked for refund",2026-02-14
+T-01387,high,"Customer called,
+asked for refund",2026-05-06
+T-01388,urgent,"Follow-up
+scheduled, no answer",2026-05-15
+T-01389,high,"Said ""it broke
+after update"", escalated",2026-07-03
+T-01390,medium,"Customer called,
+asked for refund",2026-09-09
+T-01391,high,"Customer called,
+asked for refund",2026-08-20
+T-01392,low,"Customer called,
+asked for refund",2026-06-13
+T-01393,low,"Customer called,
+asked for refund",2026-05-27
+T-01394,low,"Follow-up
+scheduled, no answer",2026-04-10
+T-01395,urgent,"Said ""it broke
+after update"", escalated",2026-02-06
+T-01396,low,"Follow-up
+scheduled, no answer",2026-09-10
+T-01397,medium,Simple password reset,2026-04-06
+T-01398,urgent,Simple password reset,2026-02-24
+T-01399,medium,Simple password reset,2026-02-09
+T-01400,medium,"Said ""it broke
+after update"", escalated",2026-02-06
+T-01401,urgent,"Said ""it broke
+after update"", escalated",2026-03-07
+T-01402,high,"Follow-up
+scheduled, no answer",2026-02-27
+T-01403,high,"Follow-up
+scheduled, no answer",2026-05-01
+T-01404,low,"Customer called,
+asked for refund",2026-03-04
+T-01405,medium,"Follow-up
+scheduled, no answer",2026-04-05
+T-01406,high,"Follow-up
+scheduled, no answer",2026-09-24
+T-01407,medium,Simple password reset,2026-08-06
+T-01408,medium,Simple password reset,2026-08-20
+T-01409,urgent,Simple password reset,2026-01-16
+T-01410,urgent,"Follow-up
+scheduled, no answer",2026-09-11
+T-01411,low,"Follow-up
+scheduled, no answer",2026-08-02
+T-01412,medium,"Follow-up
+scheduled, no answer",2026-07-08
+T-01413,low,"Follow-up
+scheduled, no answer",2026-01-11
+T-01414,high,Simple password reset,2026-08-08
+T-01415,low,"Follow-up
+scheduled, no answer",2026-06-24
+T-01416,low,"Customer called,
+asked for refund",2026-07-11
+T-01417,low,"Customer called,
+asked for refund",2026-01-25
+T-01418,medium,Simple password reset,2026-02-19
+T-01419,low,Simple password reset,2026-09-07
+T-01420,low,Simple password reset,2026-01-25
+T-01421,urgent,"Follow-up
+scheduled, no answer",2026-07-24
+T-01422,high,"Follow-up
+scheduled, no answer",2026-05-10
+T-01423,high,"Customer called,
+asked for refund",2026-07-27
+T-01424,medium,"Follow-up
+scheduled, no answer",2026-03-26
+T-01425,medium,"Customer called,
+asked for refund",2026-08-01
+T-01426,low,"Follow-up
+scheduled, no answer",2026-09-24
+T-01427,high,Simple password reset,2026-04-03
+T-01428,low,"Said ""it broke
+after update"", escalated",2026-09-06
+T-01429,urgent,"Follow-up
+scheduled, no answer",2026-05-25
+T-01430,urgent,"Said ""it broke
+after update"", escalated",2026-01-19
+T-01431,urgent,"Customer called,
+asked for refund",2026-03-20
+T-01432,low,"Customer called,
+asked for refund",2026-05-03
+T-01433,urgent,"Customer called,
+asked for refund",2026-07-05
+T-01434,low,"Said ""it broke
+after update"", escalated",2026-08-09
+T-01435,medium,"Said ""it broke
+after update"", escalated",2026-06-18
+T-01436,urgent,"Follow-up
+scheduled, no answer",2026-04-28
+T-01437,high,"Said ""it broke
+after update"", escalated",2026-03-06
+T-01438,low,Simple password reset,2026-05-15
+T-01439,low,"Follow-up
+scheduled, no answer",2026-09-11
+T-01440,low,"Said ""it broke
+after update"", escalated",2026-05-26
+T-01441,low,"Customer called,
+asked for refund",2026-09-13
+T-01442,medium,Simple password reset,2026-05-03
+T-01443,low,Simple password reset,2026-08-20
+T-01444,high,Simple password reset,2026-03-24
+T-01445,high,"Follow-up
+scheduled, no answer",2026-02-07
+T-01446,medium,Simple password reset,2026-06-06
+T-01447,medium,"Said ""it broke
+after update"", escalated",2026-05-01
+T-01448,urgent,"Follow-up
+scheduled, no answer",2026-04-09
+T-01449,high,"Customer called,
+asked for refund",2026-05-21
+T-01450,urgent,Simple password reset,2026-09-27
+T-01451,low,"Customer called,
+asked for refund",2026-04-27
+T-01452,high,Simple password reset,2026-09-21
+T-01453,urgent,"Follow-up
+scheduled, no answer",2026-02-16
+T-01454,low,"Said ""it broke
+after update"", escalated",2026-09-13
+T-01455,medium,"Said ""it broke
+after update"", escalated",2026-08-09
+T-01456,high,"Follow-up
+scheduled, no answer",2026-04-27
+T-01457,high,"Said ""it broke
+after update"", escalated",2026-08-04
+T-01458,high,"Follow-up
+scheduled, no answer",2026-03-14
+T-01459,low,"Customer called,
+asked for refund",2026-04-20
+T-01460,medium,"Follow-up
+scheduled, no answer",2026-03-24
+T-01461,urgent,"Follow-up
+scheduled, no answer",2026-04-22
+T-01462,high,"Follow-up
+scheduled, no answer",2026-04-20
+T-01463,high,"Customer called,
+asked for refund",2026-02-25
+T-01464,low,"Said ""it broke
+after update"", escalated",2026-03-26
+T-01465,medium,"Customer called,
+asked for refund",2026-07-06
+T-01466,urgent,"Customer called,
+asked for refund",2026-07-05
+T-01467,high,"Said ""it broke
+after update"", escalated",2026-04-03
+T-01468,urgent,"Follow-up
+scheduled, no answer",2026-09-11
+T-01469,urgent,"Said ""it broke
+after update"", escalated",2026-09-18
+T-01470,low,"Said ""it broke
+after update"", escalated",2026-02-20
+T-01471,medium,"Follow-up
+scheduled, no answer",2026-06-25
+T-01472,urgent,Simple password reset,2026-03-19
+T-01473,urgent,"Follow-up
+scheduled, no answer",2026-02-23
+T-01474,urgent,"Customer called,
+asked for refund",2026-05-16
+T-01475,medium,"Customer called,
+asked for refund",2026-09-27
+T-01476,low,"Said ""it broke
+after update"", escalated",2026-06-10
+T-01477,low,Simple password reset,2026-09-16
+T-01478,low,"Follow-up
+scheduled, no answer",2026-02-26
+T-01479,medium,"Said ""it broke
+after update"", escalated",2026-06-06
+T-01480,high,Simple password reset,2026-05-14
+T-01481,medium,Simple password reset,2026-09-18
+T-01482,low,"Follow-up
+scheduled, no answer",2026-03-18
+T-01483,urgent,"Follow-up
+scheduled, no answer",2026-07-23
+T-01484,high,"Customer called,
+asked for refund",2026-09-09
+T-01485,urgent,Simple password reset,2026-03-12
+T-01486,high,"Follow-up
+scheduled, no answer",2026-03-03
+T-01487,high,"Customer called,
+asked for refund",2026-08-22
+T-01488,urgent,"Follow-up
+scheduled, no answer",2026-04-27
+T-01489,high,"Follow-up
+scheduled, no answer",2026-04-01
+T-01490,urgent,"Customer called,
+asked for refund",2026-08-03
+T-01491,medium,"Said ""it broke
+after update"", escalated",2026-03-09
+T-01492,urgent,"Follow-up
+scheduled, no answer",2026-01-05
+T-01493,high,Simple password reset,2026-07-23
+T-01494,high,Simple password reset,2026-03-25
+T-01495,urgent,"Customer called,
+asked for refund",2026-04-09
+T-01496,urgent,"Customer called,
+asked for refund",2026-09-28
+T-01497,high,Simple password reset,2026-06-05
+T-01498,high,"Follow-up
+scheduled, no answer",2026-08-03
+T-01499,low,"Customer called,
+asked for refund",2026-09-14
